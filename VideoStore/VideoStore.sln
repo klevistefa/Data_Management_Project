@@ -1,0 +1,44 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "VideoStore", "VideoStore\VideoStore.vbproj", "{F638B63A-7981-49EA-8132-321FB5D0BB50}"
+EndProject
+Project("{6141683F-8A12-4E36-9623-2EB02B2C2303}") = "VideoStoreManagement", "VideoStoreManagemen\VideoStoreManagement.isproj", "{126C8115-4D45-4556-A58D-69ABFB3489A5}"
+	ProjectSection(ProjectDependencies) = postProject
+		{F638B63A-7981-49EA-8132-321FB5D0BB50} = {F638B63A-7981-49EA-8132-321FB5D0BB50}
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		CD_ROM|x86 = CD_ROM|x86
+		Debug|x86 = Debug|x86
+		DVD-5|x86 = DVD-5|x86
+		Release|x86 = Release|x86
+		SingleImage|x86 = SingleImage|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F638B63A-7981-49EA-8132-321FB5D0BB50}.CD_ROM|x86.ActiveCfg = Release|x86
+		{F638B63A-7981-49EA-8132-321FB5D0BB50}.CD_ROM|x86.Build.0 = Release|x86
+		{F638B63A-7981-49EA-8132-321FB5D0BB50}.Debug|x86.ActiveCfg = Debug|x86
+		{F638B63A-7981-49EA-8132-321FB5D0BB50}.Debug|x86.Build.0 = Debug|x86
+		{F638B63A-7981-49EA-8132-321FB5D0BB50}.DVD-5|x86.ActiveCfg = Debug|x86
+		{F638B63A-7981-49EA-8132-321FB5D0BB50}.DVD-5|x86.Build.0 = Debug|x86
+		{F638B63A-7981-49EA-8132-321FB5D0BB50}.Release|x86.ActiveCfg = Release|x86
+		{F638B63A-7981-49EA-8132-321FB5D0BB50}.Release|x86.Build.0 = Release|x86
+		{F638B63A-7981-49EA-8132-321FB5D0BB50}.SingleImage|x86.ActiveCfg = Release|x86
+		{F638B63A-7981-49EA-8132-321FB5D0BB50}.SingleImage|x86.Build.0 = Release|x86
+		{126C8115-4D45-4556-A58D-69ABFB3489A5}.CD_ROM|x86.ActiveCfg = CD_ROM
+		{126C8115-4D45-4556-A58D-69ABFB3489A5}.CD_ROM|x86.Build.0 = CD_ROM
+		{126C8115-4D45-4556-A58D-69ABFB3489A5}.Debug|x86.ActiveCfg = DVD-5
+		{126C8115-4D45-4556-A58D-69ABFB3489A5}.Debug|x86.Build.0 = DVD-5
+		{126C8115-4D45-4556-A58D-69ABFB3489A5}.DVD-5|x86.ActiveCfg = DVD-5
+		{126C8115-4D45-4556-A58D-69ABFB3489A5}.DVD-5|x86.Build.0 = DVD-5
+		{126C8115-4D45-4556-A58D-69ABFB3489A5}.Release|x86.ActiveCfg = SingleImage
+		{126C8115-4D45-4556-A58D-69ABFB3489A5}.Release|x86.Build.0 = SingleImage
+		{126C8115-4D45-4556-A58D-69ABFB3489A5}.SingleImage|x86.ActiveCfg = SingleImage
+		{126C8115-4D45-4556-A58D-69ABFB3489A5}.SingleImage|x86.Build.0 = SingleImage
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

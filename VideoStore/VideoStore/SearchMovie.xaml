@@ -1,0 +1,32 @@
+﻿<Page x:Class="SearchMovie"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="700"
+      Title="SearchMovie">
+    <Grid Loaded="Grid_Loaded_1">
+        <DataGrid AutoGenerateColumns="False" IsReadOnly="True" x:Name="dgMovies" HorizontalAlignment="Left" Margin="10,39,0,0" VerticalAlignment="Top" Width="680" Height="360">
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="ID" Binding="{Binding Path=film_id}"></DataGridTextColumn>
+                <DataGridTextColumn Header="Title" Binding="{Binding Path=film_title}"></DataGridTextColumn>
+                <DataGridTextColumn Header="Category" Binding="{Binding Path=film_categories}"></DataGridTextColumn>
+                <DataGridTextColumn Header="Release Date" Binding="{Binding Path=film_release_date, StringFormat=d}"></DataGridTextColumn>
+                <DataGridTextColumn Header="Description" Width="220" Binding="{Binding Path=film_description}"></DataGridTextColumn>
+                <DataGridTemplateColumn Header="Image">
+                    <DataGridTemplateColumn.CellTemplate>
+                        <DataTemplate>
+                            <Image Width="80" Height="80" Source="{Binding Path=film_image}">
+                            </Image>
+                        </DataTemplate>
+                    </DataGridTemplateColumn.CellTemplate>
+                </DataGridTemplateColumn>
+            </DataGrid.Columns>
+        </DataGrid>  
+        <Label Content="All Movies" FontSize="18" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top"/>
+        <Label Content="Filter By Title:" FontSize="16" HorizontalAlignment="Left" Margin="10,415,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="txtFilter" HorizontalAlignment="Left" Height="23" Margin="119,413,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="200"/>
+
+    </Grid>
+</Page>

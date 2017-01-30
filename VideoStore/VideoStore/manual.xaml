@@ -1,0 +1,22 @@
+﻿<Page x:Class="manual"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      mc:Ignorable="d" 
+      d:DesignHeight="565" d:DesignWidth="1050"
+      Title="manual">
+    <Grid VerticalAlignment="Top">
+        <Label Content="Troubleshooting guide" FontSize="20" HorizontalAlignment="Left" Margin="390,22,0,-12" VerticalAlignment="Top"/>
+        <Label Content="a) Logging in" FontSize="18" HorizontalAlignment="Left" Margin="26,62,0,-25" VerticalAlignment="Top"/>
+        <Label FontSize="14" Content="During the logging in as an administrator or employee if the window says at the right – bottom corner: 'Invalid credentials', it means &#10;that the username or password or both are not written correctly. You should check again what you've written in both those boxes." HorizontalAlignment="Left" Margin="26,91,0,-74" VerticalAlignment="Top" Height="60" Width="998"/>
+        <Label Content="b) Adding a new item to the program" FontSize="18" HorizontalAlignment="Left" Margin="26,156,0,-79" VerticalAlignment="Top"/>
+        <Label FontSize="14" Content="When you add a new item to the program and you click the 'add', a label may appear saying: 'Please fill in all the fields'. You should &#10;check again if you have left any of those fields unfilled. " HorizontalAlignment="Left" Margin="26,185,0,-108" VerticalAlignment="Top" Height="40" Width="998"/>
+        <Label Content="c) Modifying/deleting something from the program" FontSize="18" HorizontalAlignment="Left" Margin="26,239,0,-122" VerticalAlignment="Top"/>
+        <Label FontSize="14" Content="When you click 'modify' or 'delete' without selecting any item from the list the program says: 'Please select an item from the list'. &#10;You should double click the item that you want to modify/delete and then proceed.
+Once you've selected an item and you want &#10;to modify it, you should fill in all the fields before clicking 'modify' button or otherwise the program will require you to fill in all the fields.
+" HorizontalAlignment="Left" Margin="26,268,0,-185" VerticalAlignment="Top" Height="74" Width="998"/>
+        <Label FontSize="18" Content="d)  No sales are shown to the sales report of the administrator" HorizontalAlignment="Left" Margin="26,347,0,-190" VerticalAlignment="Top"/>
+        <Label FontSize="14" Content="Check the time interval again because you might have chosen a time interval with no sales." HorizontalAlignment="Left" Margin="26,376,0,-230" VerticalAlignment="Top" Height="51" Width="998"/>
+    </Grid>
+</Page>

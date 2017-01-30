@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="VideoStore.DBTransaction">
+    <Position X="1" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>TAIMCQGCgkAAAQSAkAAJTUA0RIIBAkLAAAAOqEqQBgg=</HashCode>
+      <FileName>DBTransaction.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VideoStore.Games">
+    <Position X="2.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABSAAFAAECwAAAAQBAIABAAAAQIQCAACIAEABAABCA=</HashCode>
+      <FileName>Games.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VideoStore.Employees">
+    <Position X="4.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAEMiAAEAAAIAAAAAAAEAAAQgAIgEAAAAAAAACAA=</HashCode>
+      <FileName>Employees.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VideoStore.Member">
+    <Position X="6.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ARAAAEICAgEAAAgAAAAAACAAAAAwAAAEAAAAIAAACQA=</HashCode>
+      <FileName>Member.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VideoStore.Movies">
+    <Position X="8" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAEAAGCwAAAAQBAIABAACAAAQCAACIAEAAAABCA=</HashCode>
+      <FileName>Movies.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

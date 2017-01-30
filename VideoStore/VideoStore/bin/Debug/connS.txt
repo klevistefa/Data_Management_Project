@@ -1,0 +1,1 @@
+server=localhost;database=CambridgeProject;Integrated Security=SSPI

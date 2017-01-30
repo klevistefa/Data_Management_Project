@@ -1,0 +1,31 @@
+﻿<Page x:Class="salesMovies"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      mc:Ignorable="d" 
+      d:DesignHeight="400" d:DesignWidth="700"
+      Title="salesMovies">
+    <Grid Name="Grid1">
+        <GroupBox Header="Select interval" Height="193" HorizontalAlignment="Left" Margin="12,12,0,0" Name="GroupBox1" VerticalAlignment="Top" Width="248">
+            <Grid>
+                <Label Content="Begin date:" Height="28" HorizontalAlignment="Left" Margin="6,6,0,0" Name="Label1" VerticalAlignment="Top" />
+                <Label Content="End date:" Height="28" HorizontalAlignment="Left" Margin="6,44,0,0" Name="Label2" VerticalAlignment="Top" />
+                <DatePicker Height="25" HorizontalAlignment="Left" Margin="82,6,0,0" Name="dtpBegin" VerticalAlignment="Top" Width="148" />
+                <DatePicker Height="25" HorizontalAlignment="Left" Margin="82,44,0,0" Name="dtpEnd" VerticalAlignment="Top" Width="148" />
+                <Button Content="Show sales" Height="29" HorizontalAlignment="Left" Margin="50,89,0,0" Name="btnShowSales" VerticalAlignment="Top" Width="117" />
+                <Button Content="Generate PDF" Height="29" HorizontalAlignment="Left" Margin="50,132,0,0" x:Name="btnReport" VerticalAlignment="Top" Width="117" />
+            </Grid>
+        </GroupBox>
+        <DataGrid AutoGenerateColumns="False" Height="342" HorizontalAlignment="Left" Margin="275,12,0,0" Name="dgSales" VerticalAlignment="Top" Width="413" >
+            <DataGrid.Columns >
+                <DataGridTextColumn Header="Title" Binding="{Binding Path=film_title}"></DataGridTextColumn>
+                <DataGridTextColumn Header="Price" Binding="{Binding Path=film_price}"></DataGridTextColumn>
+                <DataGridTextColumn Header="Cost" Binding="{Binding Path=film_cost}"></DataGridTextColumn>
+                <DataGridTextColumn Header="Sale date" Binding="{Binding Path=film_sale_date, StringFormat=d}"></DataGridTextColumn>
+            </DataGrid.Columns>
+        </DataGrid>
+        <Label Content="Total sales:" Height="28" HorizontalAlignment="Left" Margin="275,360,0,0" Name="Label3" VerticalAlignment="Top" />
+        <TextBox IsReadOnly="True" Height="23" HorizontalAlignment="Left" Margin="347,360,0,0" Name="txtTotalSales" VerticalAlignment="Top" Width="341" />
+    </Grid>
+</Page>

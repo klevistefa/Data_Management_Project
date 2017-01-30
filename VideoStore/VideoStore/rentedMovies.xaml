@@ -1,0 +1,46 @@
+﻿<Page x:Class="rentedMovies"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      mc:Ignorable="d" 
+      d:DesignHeight="550" d:DesignWidth="780"
+      Title="rentedMovies">
+    <Grid Loaded="Grid_Loaded_1">
+        <DataGrid x:Name="dgRentedFilms" IsReadOnly="True" AutoGenerateColumns="False" HorizontalAlignment="Left" Margin="10,42,0,0" VerticalAlignment="Top" Width="760" Height="340">
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="Member ID" Binding="{Binding Path=member_id}"></DataGridTextColumn>
+                <DataGridTextColumn Header="First Name" Binding="{Binding Path=member_first_name}"></DataGridTextColumn>
+                <DataGridTextColumn Header="Last Name" Binding="{Binding Path=member_last_name}"></DataGridTextColumn>
+                <DataGridTextColumn Header="Film ID" Binding="{Binding Path=film_id}"></DataGridTextColumn>
+                <DataGridTextColumn Header="Title" Binding="{Binding Path=film_title}"></DataGridTextColumn>
+                <DataGridTextColumn Header="Stock" Binding="{Binding Path=film_stock}"></DataGridTextColumn>
+                <DataGridTextColumn Header="Rent Date" Binding="{Binding Path=rent_date, StringFormat=d}"></DataGridTextColumn>
+                <DataGridTextColumn Header="Return Date" Binding="{Binding Path=return_date, StringFormat=d}"></DataGridTextColumn>
+            </DataGrid.Columns>
+        </DataGrid>
+        <Label Content="Rented Movies" HorizontalAlignment="Left" Margin="321,10,0,0" VerticalAlignment="Top" FontSize="18"/>
+        <GroupBox Header="GroupBox" HorizontalAlignment="Left" Margin="10,387,0,0" VerticalAlignment="Top" Height="153" Width="760">
+            <Grid>
+                <Label Content="Member ID" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top"/>
+                <Label Content="First Name" HorizontalAlignment="Left" Margin="10,42,0,0" VerticalAlignment="Top"/>
+                <Label Content="First Title" HorizontalAlignment="Left" Margin="10,101,0,0" VerticalAlignment="Top"/>
+                <Label Content="Film ID" HorizontalAlignment="Left" Margin="10,71,0,0" VerticalAlignment="Top"/>
+                <TextBox IsReadOnly="True" x:Name="txtMemberID" HorizontalAlignment="Left" Height="23" Margin="95,7,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="150"/>
+                <TextBox IsReadOnly="True" x:Name="txtFirstName" HorizontalAlignment="Left" Height="23" Margin="95,37,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="150"/>
+                <TextBox IsReadOnly="True" x:Name="txtFilmID" HorizontalAlignment="Left" Height="23" Margin="95,67,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="150"/>
+                <TextBox IsReadOnly="True" x:Name="txtTitle" HorizontalAlignment="Left" Height="23" Margin="95,98,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="150"/>
+                <Label Content="Rent Date" HorizontalAlignment="Left" Margin="280,10,0,0" VerticalAlignment="Top"/>
+                <Label Content="Return Date" HorizontalAlignment="Left" Margin="280,42,0,0" VerticalAlignment="Top"/>
+                <TextBox IsReadOnly="True" x:Name="txtRentDate" HorizontalAlignment="Left" Height="23" Margin="369,7,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="150"/>
+                <TextBox IsReadOnly="True" x:Name="txtReturnDate" HorizontalAlignment="Left" Height="23" Margin="369,37,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="150"/>
+                <Button x:Name="btnReturn" Content="Return Movie" HorizontalAlignment="Left" Margin="555,7,0,0" VerticalAlignment="Top" Width="183"/>
+                <Button x:Name="btnPostpone" Content="Postpone" HorizontalAlignment="Left" Margin="555,42,0,0" VerticalAlignment="Top" Width="183"/>
+                <Label x:Name="lblError" Foreground="Red" Content="" HorizontalAlignment="Left" Margin="555,85,0,0" VerticalAlignment="Top" Width="183" Height="23"/>
+                <Label x:Name="lblSuccess" Foreground="Green" Content="" HorizontalAlignment="Left" Margin="555,85,0,0" VerticalAlignment="Top" Width="183" Height="23"/>
+
+            </Grid>
+        </GroupBox>
+
+    </Grid>
+</Page>

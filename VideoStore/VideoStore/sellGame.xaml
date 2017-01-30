@@ -1,0 +1,67 @@
+﻿<Page x:Class="sellGame"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      mc:Ignorable="d" 
+      d:DesignHeight="480" d:DesignWidth="750"
+      Title="sellGame">
+    <Grid Loaded="Grid_Loaded_1">
+        <DataGrid IsReadOnly="True" AutoGenerateColumns="False" x:Name="dgGames" HorizontalAlignment="Left" Margin="10,39,0,0" VerticalAlignment="Top" Width="350" Height="200">
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="ID" Binding="{Binding Path=game_id}"></DataGridTextColumn>
+                <DataGridTextColumn Header="Title" Binding="{Binding Path=game_title}"></DataGridTextColumn>
+                <DataGridTextColumn Header="Price" Binding="{Binding Path=game_price}"></DataGridTextColumn>
+                <DataGridTextColumn Header="Cost" Binding="{Binding Path=game_cost}"></DataGridTextColumn>
+                <DataGridTextColumn Header="Stock New" Binding="{Binding Path=game_stock_new}"></DataGridTextColumn>
+                <DataGridTextColumn Header="Stock Used" Binding="{Binding Path=game_stock_used}"></DataGridTextColumn>
+            </DataGrid.Columns>
+        </DataGrid>
+        <Label Content="Games Stock" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top" FontSize="18"/>
+        <DataGrid IsReadOnly="True" AutoGenerateColumns="False" x:Name="dgMembers" HorizontalAlignment="Left" Margin="390,39,0,0" VerticalAlignment="Top" Width="350" Height="200">
+            <DataGrid.Columns >
+                <DataGridTextColumn Header="ID" Binding="{Binding Path=member_id}"></DataGridTextColumn>
+                <DataGridTextColumn Header="First name" Binding="{Binding Path=member_first_name}"></DataGridTextColumn>
+                <DataGridTextColumn Header="Last name" Binding="{Binding Path=member_last_name}"></DataGridTextColumn>
+                <DataGridTextColumn Header="Games bought" Binding="{Binding Path=member_games_bought}"></DataGridTextColumn>
+                <DataGridTextColumn Header="Discount" Binding="{Binding Path=member_discount}"></DataGridTextColumn>
+                <DataGridTextColumn Header="Registration Date" Binding="{Binding Path=member_registration_date, StringFormat=d}"></DataGridTextColumn>
+            </DataGrid.Columns>
+        </DataGrid>
+        <Label Content="Member List" HorizontalAlignment="Left" Margin="390,10,0,0" VerticalAlignment="Top" FontSize="18"/>
+        <Label Content="Filter:" HorizontalAlignment="Left" Margin="10,249,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="txtGameFilter" HorizontalAlignment="Left" Height="23" Margin="44,244,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="316"/>
+        <Label Content="Filter:" HorizontalAlignment="Left" Margin="390,249,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="txtMemberFilter" HorizontalAlignment="Left" Height="23" Margin="440,246,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="300"/>
+        <GroupBox Header="Sell Games" HorizontalAlignment="Left" Margin="10,278,0,0" VerticalAlignment="Top" Height="192" Width="730">
+            <Grid>
+                <Label Content="Game ID:" Height="28" HorizontalAlignment="Left" Margin="6,18,0,0" Name="Label3" VerticalAlignment="Top" />
+                <Label Content="Stock(New):" Height="28" HorizontalAlignment="Left" Margin="6,52,0,0" Name="Label4" VerticalAlignment="Top" />
+                <Label Content="Price:" Height="28" HorizontalAlignment="Left" Margin="6,112,0,0" Name="Label5" VerticalAlignment="Top" />
+                <Label Content="Cost:" Height="28" HorizontalAlignment="Left" Margin="6,140,0,0" Name="Label6" VerticalAlignment="Top" />
+                <TextBox Height="23" HorizontalAlignment="Left" Margin="79,18,0,0" x:Name="txtGameID" VerticalAlignment="Top" Width="163" IsReadOnly="True" />
+                <TextBox Height="23" HorizontalAlignment="Left" IsReadOnly="True" Margin="79,52,0,0" x:Name="txtStockN" VerticalAlignment="Top" Width="163" />
+                <TextBox Height="23" HorizontalAlignment="Left" IsReadOnly="True" Margin="79,112,0,0" Name="txtPrice" VerticalAlignment="Top" Width="163" />
+                <TextBox Height="23" HorizontalAlignment="Left" IsReadOnly="True" Margin="79,142,0,0" Name="txtCost" VerticalAlignment="Top" Width="163" />
+                <Label Content="Member ID:" Height="28" HorizontalAlignment="Left" Margin="261,18,0,0" Name="Label7" VerticalAlignment="Top" />
+                <Label Content="Games bought: " Height="28" HorizontalAlignment="Left" Margin="261,52,0,0" Name="Label8" VerticalAlignment="Top" />
+                <Label Content="Registration Date:" Height="28" HorizontalAlignment="Left" Margin="261,86,0,0" Name="Label9" VerticalAlignment="Top" />
+                <Label Content="Discount:" Height="28" HorizontalAlignment="Left" Margin="261,120,0,0" Name="Label10" VerticalAlignment="Top" />
+                <TextBox IsReadOnly="True" Height="23" HorizontalAlignment="Left" Margin="373,18,0,0" Name="txtMemberId" VerticalAlignment="Top" Width="178" />
+                <TextBox IsReadOnly="True" Height="23" HorizontalAlignment="Left" Margin="373,52,0,0" x:Name="txtGamesBought" VerticalAlignment="Top" Width="178" />
+                <TextBox IsReadOnly="True" Height="23" HorizontalAlignment="Left" Margin="373,83,0,0" Name="txtRegistrationDate" VerticalAlignment="Top" Width="178" />
+                <TextBox IsReadOnly="True" Height="23" HorizontalAlignment="Left" Margin="373,120,0,0" Name="txtDiscount" VerticalAlignment="Top" Width="178" />
+                <Button Content="Clear Fields" Height="28" HorizontalAlignment="Left" Margin="569,18,0,0" Name="Button1" VerticalAlignment="Top" Width="129" />
+                <Button Content="Sell Game" HorizontalAlignment="Left" Margin="569,95,0,47" x:Name="btnSellGame" Width="129" Height="28" />
+                <Button Content="Check Discount" Height="28" HorizontalAlignment="Left" Margin="569,57,0,0" Name="btnCheck" VerticalAlignment="Top" Width="129" />
+                <Label Foreground="Green" Height="28" HorizontalAlignment="Left" Margin="569,135,0,0" Name="lblSuccess" VerticalAlignment="Top" Width="129" />
+                <Label Foreground="Red" Content="" Height="28" HorizontalAlignment="Left" Margin="569,139,0,0" Name="lblError2" VerticalAlignment="Top" Width="129" />
+                <Label Content="Stock(Used):" Height="27" HorizontalAlignment="Left" Margin="6,85,0,0" x:Name="Label4_Copy" VerticalAlignment="Top" />
+                <TextBox IsReadOnly="True" Height="23" HorizontalAlignment="Left" Margin="79,82,0,0" x:Name="txtStockUsed" VerticalAlignment="Top" Width="163" />
+                <RadioButton IsEnabled="False" x:Name="rbtNew" Content="New" HorizontalAlignment="Left" Margin="373,147,0,0" VerticalAlignment="Top"/>
+                <RadioButton IsEnabled="False" x:Name="rbtUsed" Content="Used" HorizontalAlignment="Left" Margin="431,148,0,0" VerticalAlignment="Top"/>
+            </Grid>
+        </GroupBox>
+
+    </Grid>
+</Page>

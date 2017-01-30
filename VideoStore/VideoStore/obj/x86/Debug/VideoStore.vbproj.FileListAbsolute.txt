@@ -1,0 +1,973 @@
+C:\Users\robert\AppData\Local\Temporary Projects\VideoStore\bin\Debug\VideoStore.exe
+C:\Users\robert\AppData\Local\Temporary Projects\VideoStore\bin\Debug\VideoStore.pdb
+C:\Users\robert\AppData\Local\Temporary Projects\VideoStore\bin\Debug\VideoStore.xml
+C:\Users\robert\AppData\Local\Temporary Projects\VideoStore\bin\Debug\FirstFloor.ModernUI.dll
+C:\Users\robert\AppData\Local\Temporary Projects\VideoStore\bin\Debug\Microsoft.Windows.Shell.dll
+C:\Users\robert\AppData\Local\Temporary Projects\VideoStore\bin\Debug\FirstFloor.ModernUI.xml
+C:\Users\robert\AppData\Local\Temporary Projects\VideoStore\obj\x86\Debug\MainWindow.baml
+C:\Users\robert\AppData\Local\Temporary Projects\VideoStore\obj\x86\Debug\Application.baml
+C:\Users\robert\AppData\Local\Temporary Projects\VideoStore\obj\x86\Debug\MainWindow.g.vb
+C:\Users\robert\AppData\Local\Temporary Projects\VideoStore\obj\x86\Debug\Application.g.vb
+C:\Users\robert\AppData\Local\Temporary Projects\VideoStore\obj\x86\Debug\VideoStore_MarkupCompile.cache
+C:\Users\robert\AppData\Local\Temporary Projects\VideoStore\obj\x86\Debug\VideoStore.g.resources
+C:\Users\robert\AppData\Local\Temporary Projects\VideoStore\obj\x86\Debug\VideoStore.Resources.resources
+C:\Users\robert\AppData\Local\Temporary Projects\VideoStore\obj\x86\Debug\VideoStore.vbproj.GenerateResource.Cache
+C:\Users\robert\AppData\Local\Temporary Projects\VideoStore\obj\x86\Debug\VideoStore.exe
+C:\Users\robert\AppData\Local\Temporary Projects\VideoStore\obj\x86\Debug\VideoStore.xml
+C:\Users\robert\AppData\Local\Temporary Projects\VideoStore\obj\x86\Debug\VideoStore.pdb
+C:\Users\robert\AppData\Local\Temporary Projects\VideoStore\obj\x86\Debug\LoginWindow.baml
+C:\Users\robert\AppData\Local\Temporary Projects\VideoStore\obj\x86\Debug\LoginWindow.g.vb
+C:\Users\robert\AppData\Local\Temporary Projects\VideoStore\obj\x86\Debug\AdministratorLogin.baml
+C:\Users\robert\AppData\Local\Temporary Projects\VideoStore\obj\x86\Debug\EmployeeLogin.baml
+C:\Users\robert\AppData\Local\Temporary Projects\VideoStore\obj\x86\Debug\GuestLogin.baml
+C:\Users\robert\AppData\Local\Temporary Projects\VideoStore\obj\x86\Debug\AdministratorLogin.g.vb
+C:\Users\robert\AppData\Local\Temporary Projects\VideoStore\obj\x86\Debug\EmployeeLogin.g.vb
+C:\Users\robert\AppData\Local\Temporary Projects\VideoStore\obj\x86\Debug\GuestLogin.g.vb
+C:\Users\robert\AppData\Local\Temporary Projects\VideoStore\obj\x86\Debug\Page1.baml
+C:\Users\robert\AppData\Local\Temporary Projects\VideoStore\obj\x86\Debug\Page1.g.vb
+C:\Users\robert\AppData\Local\Temporary Projects\VideoStore\obj\x86\Debug\Page2.baml
+C:\Users\robert\AppData\Local\Temporary Projects\VideoStore\obj\x86\Debug\Page2.g.vb
+C:\Users\robert\AppData\Local\Temporary Projects\VideoStore\obj\x86\Debug\Page3.baml
+C:\Users\robert\AppData\Local\Temporary Projects\VideoStore\obj\x86\Debug\Page3.g.vb
+C:\Users\robert\documents\visual studio 2010\Projects\VideoStore\VideoStore\obj\x86\Debug\VideoStore.exe
+C:\Users\robert\documents\visual studio 2010\Projects\VideoStore\VideoStore\obj\x86\Debug\VideoStore.xml
+C:\Users\robert\documents\visual studio 2010\Projects\VideoStore\VideoStore\obj\x86\Debug\VideoStore.pdb
+C:\Users\robert\documents\visual studio 2010\Projects\VideoStore\VideoStore\bin\Debug\VideoStore.exe
+C:\Users\robert\documents\visual studio 2010\Projects\VideoStore\VideoStore\bin\Debug\VideoStore.pdb
+C:\Users\robert\documents\visual studio 2010\Projects\VideoStore\VideoStore\bin\Debug\VideoStore.xml
+C:\Users\robert\documents\visual studio 2010\Projects\VideoStore\VideoStore\bin\Debug\FirstFloor.ModernUI.dll
+C:\Users\robert\documents\visual studio 2010\Projects\VideoStore\VideoStore\bin\Debug\FirstFloor.ModernUI.xml
+C:\Users\robert\documents\visual studio 2010\Projects\VideoStore\VideoStore\obj\x86\Debug\VideoStore.vbprojResolveAssemblyReference.cache
+C:\Users\robert\documents\visual studio 2010\Projects\VideoStore\VideoStore\obj\x86\Debug\AdministratorLogin.baml
+C:\Users\robert\documents\visual studio 2010\Projects\VideoStore\VideoStore\obj\x86\Debug\EmployeeLogin.baml
+C:\Users\robert\documents\visual studio 2010\Projects\VideoStore\VideoStore\obj\x86\Debug\GuestLogin.baml
+C:\Users\robert\documents\visual studio 2010\Projects\VideoStore\VideoStore\obj\x86\Debug\LoginWindow.baml
+C:\Users\robert\documents\visual studio 2010\Projects\VideoStore\VideoStore\obj\x86\Debug\MainWindow.baml
+C:\Users\robert\documents\visual studio 2010\Projects\VideoStore\VideoStore\obj\x86\Debug\Application.baml
+C:\Users\robert\documents\visual studio 2010\Projects\VideoStore\VideoStore\obj\x86\Debug\AdministratorLogin.g.vb
+C:\Users\robert\documents\visual studio 2010\Projects\VideoStore\VideoStore\obj\x86\Debug\EmployeeLogin.g.vb
+C:\Users\robert\documents\visual studio 2010\Projects\VideoStore\VideoStore\obj\x86\Debug\GuestLogin.g.vb
+C:\Users\robert\documents\visual studio 2010\Projects\VideoStore\VideoStore\obj\x86\Debug\LoginWindow.g.vb
+C:\Users\robert\documents\visual studio 2010\Projects\VideoStore\VideoStore\obj\x86\Debug\MainWindow.g.vb
+C:\Users\robert\documents\visual studio 2010\Projects\VideoStore\VideoStore\obj\x86\Debug\Application.g.vb
+C:\Users\robert\documents\visual studio 2010\Projects\VideoStore\VideoStore\obj\x86\Debug\VideoStore_MarkupCompile.cache
+C:\Users\robert\documents\visual studio 2010\Projects\VideoStore\VideoStore\obj\x86\Debug\VideoStore.g.resources
+C:\Users\robert\documents\visual studio 2010\Projects\VideoStore\VideoStore\obj\x86\Debug\VideoStore.Resources.resources
+C:\Users\robert\documents\visual studio 2010\Projects\VideoStore\VideoStore\obj\x86\Debug\VideoStore.vbproj.GenerateResource.Cache
+C:\Users\Klevis\Desktop\VideoStore\VideoStore\obj\x86\Debug\VideoStore.exe
+C:\Users\Klevis\Desktop\VideoStore\VideoStore\obj\x86\Debug\VideoStore.xml
+C:\Users\Klevis\Desktop\VideoStore\VideoStore\obj\x86\Debug\VideoStore.pdb
+C:\Users\Klevis\Desktop\VideoStore\VideoStore\bin\Debug\VideoStore.exe
+C:\Users\Klevis\Desktop\VideoStore\VideoStore\bin\Debug\VideoStore.pdb
+C:\Users\Klevis\Desktop\VideoStore\VideoStore\bin\Debug\VideoStore.xml
+C:\Users\Klevis\Desktop\VideoStore\VideoStore\bin\Debug\FirstFloor.ModernUI.xml
+C:\Users\Klevis\Desktop\VideoStore\VideoStore\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Klevis\Desktop\VideoStore\VideoStore\obj\x86\Debug\AdministratorLogin.baml
+C:\Users\Klevis\Desktop\VideoStore\VideoStore\obj\x86\Debug\EmployeeLogin.baml
+C:\Users\Klevis\Desktop\VideoStore\VideoStore\obj\x86\Debug\GuestLogin.baml
+C:\Users\Klevis\Desktop\VideoStore\VideoStore\obj\x86\Debug\LoginWindow.baml
+C:\Users\Klevis\Desktop\VideoStore\VideoStore\obj\x86\Debug\MainWindow.baml
+C:\Users\Klevis\Desktop\VideoStore\VideoStore\obj\x86\Debug\Application.baml
+C:\Users\Klevis\Desktop\VideoStore\VideoStore\obj\x86\Debug\AdministratorLogin.g.vb
+C:\Users\Klevis\Desktop\VideoStore\VideoStore\obj\x86\Debug\EmployeeLogin.g.vb
+C:\Users\Klevis\Desktop\VideoStore\VideoStore\obj\x86\Debug\GuestLogin.g.vb
+C:\Users\Klevis\Desktop\VideoStore\VideoStore\obj\x86\Debug\LoginWindow.g.vb
+C:\Users\Klevis\Desktop\VideoStore\VideoStore\obj\x86\Debug\MainWindow.g.vb
+C:\Users\Klevis\Desktop\VideoStore\VideoStore\obj\x86\Debug\Application.g.vb
+C:\Users\Klevis\Desktop\VideoStore\VideoStore\obj\x86\Debug\VideoStore_MarkupCompile.cache
+C:\Users\Klevis\Desktop\VideoStore\VideoStore\obj\x86\Debug\VideoStore.g.resources
+C:\Users\Klevis\Desktop\VideoStore\VideoStore\obj\x86\Debug\VideoStore.Resources.resources
+C:\Users\Klevis\Desktop\VideoStore\VideoStore\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Klevis\Desktop\VideoStore\VideoStore\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Anda\Desktop\VideoStore\VideoStore\obj\x86\Debug\VideoStore.xml
+C:\Users\Anda\Desktop\VideoStore\VideoStore\obj\x86\Debug\VideoStore.pdb
+C:\Users\Anda\Desktop\VideoStore\VideoStore\bin\Debug\VideoStore.exe
+C:\Users\Anda\Desktop\VideoStore\VideoStore\bin\Debug\VideoStore.pdb
+C:\Users\Anda\Desktop\VideoStore\VideoStore\bin\Debug\VideoStore.xml
+C:\Users\Anda\Desktop\VideoStore\VideoStore\bin\Debug\Microsoft.Windows.Shell.dll
+C:\Users\Anda\Desktop\VideoStore\VideoStore\bin\Debug\FirstFloor.ModernUI.xml
+C:\Users\Anda\Desktop\VideoStore\VideoStore\obj\x86\Debug\VideoStore.vbprojResolveAssemblyReference.cache
+C:\Users\Anda\Desktop\VideoStore\VideoStore\obj\x86\Debug\AdministratorLogin.baml
+C:\Users\Anda\Desktop\VideoStore\VideoStore\obj\x86\Debug\EmployeeLogin.baml
+C:\Users\Anda\Desktop\VideoStore\VideoStore\obj\x86\Debug\GuestLogin.baml
+C:\Users\Anda\Desktop\VideoStore\VideoStore\obj\x86\Debug\LoginWindow.baml
+C:\Users\Anda\Desktop\VideoStore\VideoStore\obj\x86\Debug\MainWindow.baml
+C:\Users\Anda\Desktop\VideoStore\VideoStore\obj\x86\Debug\Page1.baml
+C:\Users\Anda\Desktop\VideoStore\VideoStore\obj\x86\Debug\Page2.baml
+C:\Users\Anda\Desktop\VideoStore\VideoStore\obj\x86\Debug\Page3.baml
+C:\Users\Anda\Desktop\VideoStore\VideoStore\obj\x86\Debug\Application.baml
+C:\Users\Anda\Desktop\VideoStore\VideoStore\obj\x86\Debug\AdministratorLogin.g.vb
+C:\Users\Anda\Desktop\VideoStore\VideoStore\obj\x86\Debug\EmployeeLogin.g.vb
+C:\Users\Anda\Desktop\VideoStore\VideoStore\obj\x86\Debug\GuestLogin.g.vb
+C:\Users\Anda\Desktop\VideoStore\VideoStore\obj\x86\Debug\LoginWindow.g.vb
+C:\Users\Anda\Desktop\VideoStore\VideoStore\obj\x86\Debug\MainWindow.g.vb
+C:\Users\Anda\Desktop\VideoStore\VideoStore\obj\x86\Debug\Page1.g.vb
+C:\Users\Anda\Desktop\VideoStore\VideoStore\obj\x86\Debug\Page2.g.vb
+C:\Users\Anda\Desktop\VideoStore\VideoStore\obj\x86\Debug\Page3.g.vb
+C:\Users\Anda\Desktop\VideoStore\VideoStore\obj\x86\Debug\Application.g.vb
+C:\Users\Anda\Desktop\VideoStore\VideoStore\obj\x86\Debug\VideoStore_MarkupCompile.cache
+C:\Users\Anda\Desktop\VideoStore\VideoStore\obj\x86\Debug\VideoStore.g.resources
+C:\Users\Anda\Desktop\VideoStore\VideoStore\obj\x86\Debug\VideoStore.Resources.resources
+C:\Users\Anda\Desktop\VideoStore\VideoStore\obj\x86\Debug\VideoStore.vbproj.GenerateResource.Cache
+C:\Users\Anda\Desktop\VideoStore\VideoStore\obj\x86\Debug\VideoStore.exe
+C:\Users\Klevis\Desktop\VideoStore\VideoStore\obj\x86\Debug\TopSoldGames.baml
+C:\Users\Klevis\Desktop\VideoStore\VideoStore\obj\x86\Debug\TopSoldGames.g.vb
+C:\Users\Klevis\Desktop\VideoStore\VideoStore\obj\x86\Debug\NewMovies.baml
+C:\Users\Klevis\Desktop\VideoStore\VideoStore\obj\x86\Debug\SearchMovie.baml
+C:\Users\Klevis\Desktop\VideoStore\VideoStore\obj\x86\Debug\TopRatedMovies.baml
+C:\Users\Klevis\Desktop\VideoStore\VideoStore\obj\x86\Debug\NewMovies.g.vb
+C:\Users\Klevis\Desktop\VideoStore\VideoStore\obj\x86\Debug\SearchMovie.g.vb
+C:\Users\Klevis\Desktop\VideoStore\VideoStore\obj\x86\Debug\TopRatedMovies.g.vb
+C:\Users\Anda\Desktop\New folder\VideoStore\VideoStore\obj\x86\Debug\VideoStore.exe
+C:\Users\Anda\Desktop\New folder\VideoStore\VideoStore\obj\x86\Debug\VideoStore.xml
+C:\Users\Anda\Desktop\New folder\VideoStore\VideoStore\obj\x86\Debug\VideoStore.pdb
+C:\Users\Anda\Desktop\New folder\VideoStore\VideoStore\bin\Debug\VideoStore.exe
+C:\Users\Anda\Desktop\New folder\VideoStore\VideoStore\bin\Debug\VideoStore.pdb
+C:\Users\Anda\Desktop\New folder\VideoStore\VideoStore\bin\Debug\VideoStore.xml
+C:\Users\Anda\Desktop\New folder\VideoStore\VideoStore\bin\Debug\FirstFloor.ModernUI.xml
+C:\Users\Anda\Desktop\New folder\VideoStore\VideoStore\obj\x86\Debug\VideoStore.vbprojResolveAssemblyReference.cache
+C:\Users\Anda\Desktop\New folder\VideoStore\VideoStore\obj\x86\Debug\addMovies.baml
+C:\Users\Anda\Desktop\New folder\VideoStore\VideoStore\obj\x86\Debug\AdministratorLogin.baml
+C:\Users\Anda\Desktop\New folder\VideoStore\VideoStore\obj\x86\Debug\EmployeeLogin.baml
+C:\Users\Anda\Desktop\New folder\VideoStore\VideoStore\obj\x86\Debug\GuestLogin.baml
+C:\Users\Anda\Desktop\New folder\VideoStore\VideoStore\obj\x86\Debug\listMovies.baml
+C:\Users\Anda\Desktop\New folder\VideoStore\VideoStore\obj\x86\Debug\LoginWindow.baml
+C:\Users\Anda\Desktop\New folder\VideoStore\VideoStore\obj\x86\Debug\MainWindow.baml
+C:\Users\Anda\Desktop\New folder\VideoStore\VideoStore\obj\x86\Debug\NewMovies.baml
+C:\Users\Anda\Desktop\New folder\VideoStore\VideoStore\obj\x86\Debug\SearchMovie.baml
+C:\Users\Anda\Desktop\New folder\VideoStore\VideoStore\obj\x86\Debug\TopRatedMovies.baml
+C:\Users\Anda\Desktop\New folder\VideoStore\VideoStore\obj\x86\Debug\TopSoldGames.baml
+C:\Users\Anda\Desktop\New folder\VideoStore\VideoStore\obj\x86\Debug\Application.baml
+C:\Users\Anda\Desktop\New folder\VideoStore\VideoStore\obj\x86\Debug\addMovies.g.vb
+C:\Users\Anda\Desktop\New folder\VideoStore\VideoStore\obj\x86\Debug\AdministratorLogin.g.vb
+C:\Users\Anda\Desktop\New folder\VideoStore\VideoStore\obj\x86\Debug\EmployeeLogin.g.vb
+C:\Users\Anda\Desktop\New folder\VideoStore\VideoStore\obj\x86\Debug\GuestLogin.g.vb
+C:\Users\Anda\Desktop\New folder\VideoStore\VideoStore\obj\x86\Debug\listMovies.g.vb
+C:\Users\Anda\Desktop\New folder\VideoStore\VideoStore\obj\x86\Debug\LoginWindow.g.vb
+C:\Users\Anda\Desktop\New folder\VideoStore\VideoStore\obj\x86\Debug\MainWindow.g.vb
+C:\Users\Anda\Desktop\New folder\VideoStore\VideoStore\obj\x86\Debug\NewMovies.g.vb
+C:\Users\Anda\Desktop\New folder\VideoStore\VideoStore\obj\x86\Debug\SearchMovie.g.vb
+C:\Users\Anda\Desktop\New folder\VideoStore\VideoStore\obj\x86\Debug\TopRatedMovies.g.vb
+C:\Users\Anda\Desktop\New folder\VideoStore\VideoStore\obj\x86\Debug\TopSoldGames.g.vb
+C:\Users\Anda\Desktop\New folder\VideoStore\VideoStore\obj\x86\Debug\Application.g.vb
+C:\Users\Anda\Desktop\New folder\VideoStore\VideoStore\obj\x86\Debug\VideoStore_MarkupCompile.cache
+C:\Users\Anda\Desktop\New folder\VideoStore\VideoStore\obj\x86\Debug\VideoStore.g.resources
+C:\Users\Anda\Desktop\New folder\VideoStore\VideoStore\obj\x86\Debug\VideoStore.Resources.resources
+C:\Users\Anda\Desktop\New folder\VideoStore\VideoStore\obj\x86\Debug\VideoStore.vbproj.GenerateResource.Cache
+C:\Users\Anda\Desktop\New folder\VideoStore\VideoStore\obj\x86\Debug\deleteMovie.baml
+C:\Users\Anda\Desktop\New folder\VideoStore\VideoStore\obj\x86\Debug\editMovie.baml
+C:\Users\Anda\Desktop\New folder\VideoStore\VideoStore\obj\x86\Debug\deleteMovie.g.vb
+C:\Users\Anda\Desktop\New folder\VideoStore\VideoStore\obj\x86\Debug\editMovie.g.vb
+C:\Users\Anda\Desktop\New folder\VideoStore\VideoStore\obj\x86\Debug\addGame.baml
+C:\Users\Anda\Desktop\New folder\VideoStore\VideoStore\obj\x86\Debug\deleteGame.baml
+C:\Users\Anda\Desktop\New folder\VideoStore\VideoStore\obj\x86\Debug\editGame.baml
+C:\Users\Anda\Desktop\New folder\VideoStore\VideoStore\obj\x86\Debug\listGames.baml
+C:\Users\Anda\Desktop\New folder\VideoStore\VideoStore\obj\x86\Debug\addGame.g.vb
+C:\Users\Anda\Desktop\New folder\VideoStore\VideoStore\obj\x86\Debug\deleteGame.g.vb
+C:\Users\Anda\Desktop\New folder\VideoStore\VideoStore\obj\x86\Debug\editGame.g.vb
+C:\Users\Anda\Desktop\New folder\VideoStore\VideoStore\obj\x86\Debug\listGames.g.vb
+C:\Users\Anda\Desktop\New folder\VideoStore\VideoStore\obj\x86\Debug\addMember.baml
+C:\Users\Anda\Desktop\New folder\VideoStore\VideoStore\obj\x86\Debug\deleteMember.baml
+C:\Users\Anda\Desktop\New folder\VideoStore\VideoStore\obj\x86\Debug\editMember.baml
+C:\Users\Anda\Desktop\New folder\VideoStore\VideoStore\obj\x86\Debug\listMember.baml
+C:\Users\Anda\Desktop\New folder\VideoStore\VideoStore\obj\x86\Debug\addMember.g.vb
+C:\Users\Anda\Desktop\New folder\VideoStore\VideoStore\obj\x86\Debug\deleteMember.g.vb
+C:\Users\Anda\Desktop\New folder\VideoStore\VideoStore\obj\x86\Debug\editMember.g.vb
+C:\Users\Anda\Desktop\New folder\VideoStore\VideoStore\obj\x86\Debug\listMember.g.vb
+C:\Users\Anda\Desktop\Projekti\VideoStore\VideoStore\obj\x86\Debug\VideoStore.exe
+C:\Users\Anda\Desktop\Projekti\VideoStore\VideoStore\obj\x86\Debug\VideoStore.xml
+C:\Users\Anda\Desktop\Projekti\VideoStore\VideoStore\obj\x86\Debug\VideoStore.pdb
+C:\Users\Anda\Desktop\Projekti\VideoStore\VideoStore\bin\Debug\VideoStore.exe
+C:\Users\Anda\Desktop\Projekti\VideoStore\VideoStore\bin\Debug\VideoStore.pdb
+C:\Users\Anda\Desktop\Projekti\VideoStore\VideoStore\bin\Debug\VideoStore.xml
+C:\Users\Anda\Desktop\Projekti\VideoStore\VideoStore\bin\Debug\FirstFloor.ModernUI.xml
+C:\Users\Anda\Desktop\Projekti\VideoStore\VideoStore\obj\x86\Debug\VideoStore.vbprojResolveAssemblyReference.cache
+C:\Users\Anda\Desktop\Projekti\VideoStore\VideoStore\obj\x86\Debug\addGame.baml
+C:\Users\Anda\Desktop\Projekti\VideoStore\VideoStore\obj\x86\Debug\addMember.baml
+C:\Users\Anda\Desktop\Projekti\VideoStore\VideoStore\obj\x86\Debug\addMovies.baml
+C:\Users\Anda\Desktop\Projekti\VideoStore\VideoStore\obj\x86\Debug\AdministratorLogin.baml
+C:\Users\Anda\Desktop\Projekti\VideoStore\VideoStore\obj\x86\Debug\deleteGame.baml
+C:\Users\Anda\Desktop\Projekti\VideoStore\VideoStore\obj\x86\Debug\deleteMember.baml
+C:\Users\Anda\Desktop\Projekti\VideoStore\VideoStore\obj\x86\Debug\deleteMovie.baml
+C:\Users\Anda\Desktop\Projekti\VideoStore\VideoStore\obj\x86\Debug\editGame.baml
+C:\Users\Anda\Desktop\Projekti\VideoStore\VideoStore\obj\x86\Debug\editMember.baml
+C:\Users\Anda\Desktop\Projekti\VideoStore\VideoStore\obj\x86\Debug\editMovie.baml
+C:\Users\Anda\Desktop\Projekti\VideoStore\VideoStore\obj\x86\Debug\EmployeeLogin.baml
+C:\Users\Anda\Desktop\Projekti\VideoStore\VideoStore\obj\x86\Debug\GuestLogin.baml
+C:\Users\Anda\Desktop\Projekti\VideoStore\VideoStore\obj\x86\Debug\listGames.baml
+C:\Users\Anda\Desktop\Projekti\VideoStore\VideoStore\obj\x86\Debug\listMember.baml
+C:\Users\Anda\Desktop\Projekti\VideoStore\VideoStore\obj\x86\Debug\listMovies.baml
+C:\Users\Anda\Desktop\Projekti\VideoStore\VideoStore\obj\x86\Debug\LoginWindow.baml
+C:\Users\Anda\Desktop\Projekti\VideoStore\VideoStore\obj\x86\Debug\MainWindow.baml
+C:\Users\Anda\Desktop\Projekti\VideoStore\VideoStore\obj\x86\Debug\NewMovies.baml
+C:\Users\Anda\Desktop\Projekti\VideoStore\VideoStore\obj\x86\Debug\SearchMovie.baml
+C:\Users\Anda\Desktop\Projekti\VideoStore\VideoStore\obj\x86\Debug\TopRatedMovies.baml
+C:\Users\Anda\Desktop\Projekti\VideoStore\VideoStore\obj\x86\Debug\TopSoldGames.baml
+C:\Users\Anda\Desktop\Projekti\VideoStore\VideoStore\obj\x86\Debug\Application.baml
+C:\Users\Anda\Desktop\Projekti\VideoStore\VideoStore\obj\x86\Debug\addGame.g.vb
+C:\Users\Anda\Desktop\Projekti\VideoStore\VideoStore\obj\x86\Debug\addMember.g.vb
+C:\Users\Anda\Desktop\Projekti\VideoStore\VideoStore\obj\x86\Debug\addMovies.g.vb
+C:\Users\Anda\Desktop\Projekti\VideoStore\VideoStore\obj\x86\Debug\AdministratorLogin.g.vb
+C:\Users\Anda\Desktop\Projekti\VideoStore\VideoStore\obj\x86\Debug\deleteGame.g.vb
+C:\Users\Anda\Desktop\Projekti\VideoStore\VideoStore\obj\x86\Debug\deleteMember.g.vb
+C:\Users\Anda\Desktop\Projekti\VideoStore\VideoStore\obj\x86\Debug\deleteMovie.g.vb
+C:\Users\Anda\Desktop\Projekti\VideoStore\VideoStore\obj\x86\Debug\editGame.g.vb
+C:\Users\Anda\Desktop\Projekti\VideoStore\VideoStore\obj\x86\Debug\editMember.g.vb
+C:\Users\Anda\Desktop\Projekti\VideoStore\VideoStore\obj\x86\Debug\editMovie.g.vb
+C:\Users\Anda\Desktop\Projekti\VideoStore\VideoStore\obj\x86\Debug\EmployeeLogin.g.vb
+C:\Users\Anda\Desktop\Projekti\VideoStore\VideoStore\obj\x86\Debug\GuestLogin.g.vb
+C:\Users\Anda\Desktop\Projekti\VideoStore\VideoStore\obj\x86\Debug\listGames.g.vb
+C:\Users\Anda\Desktop\Projekti\VideoStore\VideoStore\obj\x86\Debug\listMember.g.vb
+C:\Users\Anda\Desktop\Projekti\VideoStore\VideoStore\obj\x86\Debug\listMovies.g.vb
+C:\Users\Anda\Desktop\Projekti\VideoStore\VideoStore\obj\x86\Debug\LoginWindow.g.vb
+C:\Users\Anda\Desktop\Projekti\VideoStore\VideoStore\obj\x86\Debug\MainWindow.g.vb
+C:\Users\Anda\Desktop\Projekti\VideoStore\VideoStore\obj\x86\Debug\NewMovies.g.vb
+C:\Users\Anda\Desktop\Projekti\VideoStore\VideoStore\obj\x86\Debug\SearchMovie.g.vb
+C:\Users\Anda\Desktop\Projekti\VideoStore\VideoStore\obj\x86\Debug\TopRatedMovies.g.vb
+C:\Users\Anda\Desktop\Projekti\VideoStore\VideoStore\obj\x86\Debug\TopSoldGames.g.vb
+C:\Users\Anda\Desktop\Projekti\VideoStore\VideoStore\obj\x86\Debug\Application.g.vb
+C:\Users\Anda\Desktop\Projekti\VideoStore\VideoStore\obj\x86\Debug\VideoStore_MarkupCompile.cache
+C:\Users\Anda\Desktop\Projekti\VideoStore\VideoStore\obj\x86\Debug\VideoStore.g.resources
+C:\Users\Anda\Desktop\Projekti\VideoStore\VideoStore\obj\x86\Debug\VideoStore.Resources.resources
+C:\Users\Anda\Desktop\Projekti\VideoStore\VideoStore\obj\x86\Debug\VideoStore.vbproj.GenerateResource.Cache
+C:\Users\Anda\Desktop\Projekti\VideoStore\VideoStore\obj\x86\Debug\addEmployee.baml
+C:\Users\Anda\Desktop\Projekti\VideoStore\VideoStore\obj\x86\Debug\deleteEmployee.baml
+C:\Users\Anda\Desktop\Projekti\VideoStore\VideoStore\obj\x86\Debug\editEmployee.baml
+C:\Users\Anda\Desktop\Projekti\VideoStore\VideoStore\obj\x86\Debug\listEmployee.baml
+C:\Users\Anda\Desktop\Projekti\VideoStore\VideoStore\obj\x86\Debug\addEmployee.g.vb
+C:\Users\Anda\Desktop\Projekti\VideoStore\VideoStore\obj\x86\Debug\deleteEmployee.g.vb
+C:\Users\Anda\Desktop\Projekti\VideoStore\VideoStore\obj\x86\Debug\editEmployee.g.vb
+C:\Users\Anda\Desktop\Projekti\VideoStore\VideoStore\obj\x86\Debug\listEmployee.g.vb
+C:\Users\Anda\Desktop\Projekti\VideoStore\VideoStore\obj\x86\Debug\salesGames.baml
+C:\Users\Anda\Desktop\Projekti\VideoStore\VideoStore\obj\x86\Debug\salesMovies.baml
+C:\Users\Anda\Desktop\Projekti\VideoStore\VideoStore\obj\x86\Debug\salesGames.g.vb
+C:\Users\Anda\Desktop\Projekti\VideoStore\VideoStore\obj\x86\Debug\salesMovies.g.vb
+C:\Users\Anda\Desktop\Projekti\VideoStore\VideoStore\obj\x86\Debug\rentedMovies.baml
+C:\Users\Anda\Desktop\Projekti\VideoStore\VideoStore\obj\x86\Debug\returnMovie.baml
+C:\Users\Anda\Desktop\Projekti\VideoStore\VideoStore\obj\x86\Debug\rentedMovies.g.vb
+C:\Users\Anda\Desktop\Projekti\VideoStore\VideoStore\obj\x86\Debug\returnMovie.g.vb
+C:\Users\Anda\Desktop\Projekti\VideoStore\VideoStore\obj\x86\Debug\manual.baml
+C:\Users\Anda\Desktop\Projekti\VideoStore\VideoStore\obj\x86\Debug\manual.g.vb
+C:\Users\Anda\Desktop\Projekti\VideoStore\VideoStore\obj\x86\Debug\NewGames.baml
+C:\Users\Anda\Desktop\Projekti\VideoStore\VideoStore\obj\x86\Debug\SearchGame.baml
+C:\Users\Anda\Desktop\Projekti\VideoStore\VideoStore\obj\x86\Debug\TopRatedGames.baml
+C:\Users\Anda\Desktop\Projekti\VideoStore\VideoStore\obj\x86\Debug\NewGames.g.vb
+C:\Users\Anda\Desktop\Projekti\VideoStore\VideoStore\obj\x86\Debug\SearchGame.g.vb
+C:\Users\Anda\Desktop\Projekti\VideoStore\VideoStore\obj\x86\Debug\TopRatedGames.g.vb
+C:\Users\Klevis\Desktop\Projekti\VideoStore\VideoStore\obj\x86\Debug\VideoStore.exe
+C:\Users\Klevis\Desktop\Projekti\VideoStore\VideoStore\obj\x86\Debug\VideoStore.xml
+C:\Users\Klevis\Desktop\Projekti\VideoStore\VideoStore\obj\x86\Debug\VideoStore.pdb
+C:\Users\Anda\Desktop\Projekti3\VideoStore\VideoStore\obj\x86\Debug\VideoStore.exe
+C:\Users\Anda\Desktop\Projekti3\VideoStore\VideoStore\obj\x86\Debug\VideoStore.xml
+C:\Users\Anda\Desktop\Projekti3\VideoStore\VideoStore\obj\x86\Debug\VideoStore.pdb
+C:\Users\Anda\Desktop\Projekti3\VideoStore\VideoStore\bin\Debug\VideoStore.exe
+C:\Users\Anda\Desktop\Projekti3\VideoStore\VideoStore\bin\Debug\VideoStore.pdb
+C:\Users\Anda\Desktop\Projekti3\VideoStore\VideoStore\bin\Debug\VideoStore.xml
+C:\Users\Anda\Desktop\Projekti3\VideoStore\VideoStore\bin\Debug\FirstFloor.ModernUI.xml
+C:\Users\Anda\Desktop\Projekti3\VideoStore\VideoStore\obj\x86\Debug\VideoStore.vbprojResolveAssemblyReference.cache
+C:\Users\Anda\Desktop\Projekti3\VideoStore\VideoStore\obj\x86\Debug\addEmployee.baml
+C:\Users\Anda\Desktop\Projekti3\VideoStore\VideoStore\obj\x86\Debug\addGame.baml
+C:\Users\Anda\Desktop\Projekti3\VideoStore\VideoStore\obj\x86\Debug\addMember.baml
+C:\Users\Anda\Desktop\Projekti3\VideoStore\VideoStore\obj\x86\Debug\addMovies.baml
+C:\Users\Anda\Desktop\Projekti3\VideoStore\VideoStore\obj\x86\Debug\AdministratorLogin.baml
+C:\Users\Anda\Desktop\Projekti3\VideoStore\VideoStore\obj\x86\Debug\deleteEmployee.baml
+C:\Users\Anda\Desktop\Projekti3\VideoStore\VideoStore\obj\x86\Debug\deleteGame.baml
+C:\Users\Anda\Desktop\Projekti3\VideoStore\VideoStore\obj\x86\Debug\deleteMember.baml
+C:\Users\Anda\Desktop\Projekti3\VideoStore\VideoStore\obj\x86\Debug\deleteMovie.baml
+C:\Users\Anda\Desktop\Projekti3\VideoStore\VideoStore\obj\x86\Debug\editEmployee.baml
+C:\Users\Anda\Desktop\Projekti3\VideoStore\VideoStore\obj\x86\Debug\editGame.baml
+C:\Users\Anda\Desktop\Projekti3\VideoStore\VideoStore\obj\x86\Debug\editMember.baml
+C:\Users\Anda\Desktop\Projekti3\VideoStore\VideoStore\obj\x86\Debug\editMovie.baml
+C:\Users\Anda\Desktop\Projekti3\VideoStore\VideoStore\obj\x86\Debug\EmployeeLogin.baml
+C:\Users\Anda\Desktop\Projekti3\VideoStore\VideoStore\obj\x86\Debug\GuestLogin.baml
+C:\Users\Anda\Desktop\Projekti3\VideoStore\VideoStore\obj\x86\Debug\listEmployee.baml
+C:\Users\Anda\Desktop\Projekti3\VideoStore\VideoStore\obj\x86\Debug\listGames.baml
+C:\Users\Anda\Desktop\Projekti3\VideoStore\VideoStore\obj\x86\Debug\listMember.baml
+C:\Users\Anda\Desktop\Projekti3\VideoStore\VideoStore\obj\x86\Debug\listMovies.baml
+C:\Users\Anda\Desktop\Projekti3\VideoStore\VideoStore\obj\x86\Debug\LoginWindow.baml
+C:\Users\Anda\Desktop\Projekti3\VideoStore\VideoStore\obj\x86\Debug\MainWindow.baml
+C:\Users\Anda\Desktop\Projekti3\VideoStore\VideoStore\obj\x86\Debug\manual.baml
+C:\Users\Anda\Desktop\Projekti3\VideoStore\VideoStore\obj\x86\Debug\NewGames.baml
+C:\Users\Anda\Desktop\Projekti3\VideoStore\VideoStore\obj\x86\Debug\NewMovies.baml
+C:\Users\Anda\Desktop\Projekti3\VideoStore\VideoStore\obj\x86\Debug\rentedMovies.baml
+C:\Users\Anda\Desktop\Projekti3\VideoStore\VideoStore\obj\x86\Debug\returnMovie.baml
+C:\Users\Anda\Desktop\Projekti3\VideoStore\VideoStore\obj\x86\Debug\salesGames.baml
+C:\Users\Anda\Desktop\Projekti3\VideoStore\VideoStore\obj\x86\Debug\salesMovies.baml
+C:\Users\Anda\Desktop\Projekti3\VideoStore\VideoStore\obj\x86\Debug\SearchGame.baml
+C:\Users\Anda\Desktop\Projekti3\VideoStore\VideoStore\obj\x86\Debug\SearchMovie.baml
+C:\Users\Anda\Desktop\Projekti3\VideoStore\VideoStore\obj\x86\Debug\TopRatedGames.baml
+C:\Users\Anda\Desktop\Projekti3\VideoStore\VideoStore\obj\x86\Debug\TopRatedMovies.baml
+C:\Users\Anda\Desktop\Projekti3\VideoStore\VideoStore\obj\x86\Debug\TopSoldGames.baml
+C:\Users\Anda\Desktop\Projekti3\VideoStore\VideoStore\obj\x86\Debug\Application.baml
+C:\Users\Anda\Desktop\Projekti3\VideoStore\VideoStore\obj\x86\Debug\addEmployee.g.vb
+C:\Users\Anda\Desktop\Projekti3\VideoStore\VideoStore\obj\x86\Debug\addGame.g.vb
+C:\Users\Anda\Desktop\Projekti3\VideoStore\VideoStore\obj\x86\Debug\addMember.g.vb
+C:\Users\Anda\Desktop\Projekti3\VideoStore\VideoStore\obj\x86\Debug\addMovies.g.vb
+C:\Users\Anda\Desktop\Projekti3\VideoStore\VideoStore\obj\x86\Debug\AdministratorLogin.g.vb
+C:\Users\Anda\Desktop\Projekti3\VideoStore\VideoStore\obj\x86\Debug\deleteEmployee.g.vb
+C:\Users\Anda\Desktop\Projekti3\VideoStore\VideoStore\obj\x86\Debug\deleteGame.g.vb
+C:\Users\Anda\Desktop\Projekti3\VideoStore\VideoStore\obj\x86\Debug\deleteMember.g.vb
+C:\Users\Anda\Desktop\Projekti3\VideoStore\VideoStore\obj\x86\Debug\deleteMovie.g.vb
+C:\Users\Anda\Desktop\Projekti3\VideoStore\VideoStore\obj\x86\Debug\editEmployee.g.vb
+C:\Users\Anda\Desktop\Projekti3\VideoStore\VideoStore\obj\x86\Debug\editGame.g.vb
+C:\Users\Anda\Desktop\Projekti3\VideoStore\VideoStore\obj\x86\Debug\editMember.g.vb
+C:\Users\Anda\Desktop\Projekti3\VideoStore\VideoStore\obj\x86\Debug\editMovie.g.vb
+C:\Users\Anda\Desktop\Projekti3\VideoStore\VideoStore\obj\x86\Debug\EmployeeLogin.g.vb
+C:\Users\Anda\Desktop\Projekti3\VideoStore\VideoStore\obj\x86\Debug\GuestLogin.g.vb
+C:\Users\Anda\Desktop\Projekti3\VideoStore\VideoStore\obj\x86\Debug\listEmployee.g.vb
+C:\Users\Anda\Desktop\Projekti3\VideoStore\VideoStore\obj\x86\Debug\listGames.g.vb
+C:\Users\Anda\Desktop\Projekti3\VideoStore\VideoStore\obj\x86\Debug\listMember.g.vb
+C:\Users\Anda\Desktop\Projekti3\VideoStore\VideoStore\obj\x86\Debug\listMovies.g.vb
+C:\Users\Anda\Desktop\Projekti3\VideoStore\VideoStore\obj\x86\Debug\LoginWindow.g.vb
+C:\Users\Anda\Desktop\Projekti3\VideoStore\VideoStore\obj\x86\Debug\MainWindow.g.vb
+C:\Users\Anda\Desktop\Projekti3\VideoStore\VideoStore\obj\x86\Debug\manual.g.vb
+C:\Users\Anda\Desktop\Projekti3\VideoStore\VideoStore\obj\x86\Debug\NewGames.g.vb
+C:\Users\Anda\Desktop\Projekti3\VideoStore\VideoStore\obj\x86\Debug\NewMovies.g.vb
+C:\Users\Anda\Desktop\Projekti3\VideoStore\VideoStore\obj\x86\Debug\rentedMovies.g.vb
+C:\Users\Anda\Desktop\Projekti3\VideoStore\VideoStore\obj\x86\Debug\returnMovie.g.vb
+C:\Users\Anda\Desktop\Projekti3\VideoStore\VideoStore\obj\x86\Debug\salesGames.g.vb
+C:\Users\Anda\Desktop\Projekti3\VideoStore\VideoStore\obj\x86\Debug\salesMovies.g.vb
+C:\Users\Anda\Desktop\Projekti3\VideoStore\VideoStore\obj\x86\Debug\SearchGame.g.vb
+C:\Users\Anda\Desktop\Projekti3\VideoStore\VideoStore\obj\x86\Debug\SearchMovie.g.vb
+C:\Users\Anda\Desktop\Projekti3\VideoStore\VideoStore\obj\x86\Debug\TopRatedGames.g.vb
+C:\Users\Anda\Desktop\Projekti3\VideoStore\VideoStore\obj\x86\Debug\TopRatedMovies.g.vb
+C:\Users\Anda\Desktop\Projekti3\VideoStore\VideoStore\obj\x86\Debug\TopSoldGames.g.vb
+C:\Users\Anda\Desktop\Projekti3\VideoStore\VideoStore\obj\x86\Debug\Application.g.vb
+C:\Users\Anda\Desktop\Projekti3\VideoStore\VideoStore\obj\x86\Debug\VideoStore_MarkupCompile.cache
+C:\Users\Anda\Desktop\Projekti3\VideoStore\VideoStore\obj\x86\Debug\VideoStore.g.resources
+C:\Users\Anda\Desktop\Projekti3\VideoStore\VideoStore\obj\x86\Debug\VideoStore.Resources.resources
+C:\Users\Anda\Desktop\Projekti3\VideoStore\VideoStore\obj\x86\Debug\VideoStore.vbproj.GenerateResource.Cache
+C:\Users\Anda\Desktop\Projekti4\VideoStore\VideoStore\obj\x86\Debug\VideoStore.exe
+C:\Users\Anda\Desktop\Projekti4\VideoStore\VideoStore\obj\x86\Debug\VideoStore.xml
+C:\Users\Anda\Desktop\Projekti4\VideoStore\VideoStore\obj\x86\Debug\VideoStore.pdb
+C:\Users\Anda\Desktop\Projekti4\VideoStore\VideoStore\bin\Debug\VideoStore.exe
+C:\Users\Anda\Desktop\Projekti4\VideoStore\VideoStore\bin\Debug\VideoStore.pdb
+C:\Users\Anda\Desktop\Projekti4\VideoStore\VideoStore\bin\Debug\VideoStore.xml
+C:\Users\Anda\Desktop\Projekti4\VideoStore\VideoStore\bin\Debug\FirstFloor.ModernUI.xml
+C:\Users\Anda\Desktop\Projekti4\VideoStore\VideoStore\obj\x86\Debug\VideoStore.vbprojResolveAssemblyReference.cache
+C:\Users\Anda\Desktop\Projekti4\VideoStore\VideoStore\obj\x86\Debug\addEmployee.baml
+C:\Users\Anda\Desktop\Projekti4\VideoStore\VideoStore\obj\x86\Debug\addGame.baml
+C:\Users\Anda\Desktop\Projekti4\VideoStore\VideoStore\obj\x86\Debug\addMember.baml
+C:\Users\Anda\Desktop\Projekti4\VideoStore\VideoStore\obj\x86\Debug\addMovies.baml
+C:\Users\Anda\Desktop\Projekti4\VideoStore\VideoStore\obj\x86\Debug\AdministratorLogin.baml
+C:\Users\Anda\Desktop\Projekti4\VideoStore\VideoStore\obj\x86\Debug\deleteEmployee.baml
+C:\Users\Anda\Desktop\Projekti4\VideoStore\VideoStore\obj\x86\Debug\deleteGame.baml
+C:\Users\Anda\Desktop\Projekti4\VideoStore\VideoStore\obj\x86\Debug\deleteMember.baml
+C:\Users\Anda\Desktop\Projekti4\VideoStore\VideoStore\obj\x86\Debug\deleteMovie.baml
+C:\Users\Anda\Desktop\Projekti4\VideoStore\VideoStore\obj\x86\Debug\editEmployee.baml
+C:\Users\Anda\Desktop\Projekti4\VideoStore\VideoStore\obj\x86\Debug\editGame.baml
+C:\Users\Anda\Desktop\Projekti4\VideoStore\VideoStore\obj\x86\Debug\editMember.baml
+C:\Users\Anda\Desktop\Projekti4\VideoStore\VideoStore\obj\x86\Debug\editMovie.baml
+C:\Users\Anda\Desktop\Projekti4\VideoStore\VideoStore\obj\x86\Debug\EmployeeLogin.baml
+C:\Users\Anda\Desktop\Projekti4\VideoStore\VideoStore\obj\x86\Debug\GuestLogin.baml
+C:\Users\Anda\Desktop\Projekti4\VideoStore\VideoStore\obj\x86\Debug\listEmployee.baml
+C:\Users\Anda\Desktop\Projekti4\VideoStore\VideoStore\obj\x86\Debug\listGames.baml
+C:\Users\Anda\Desktop\Projekti4\VideoStore\VideoStore\obj\x86\Debug\listMember.baml
+C:\Users\Anda\Desktop\Projekti4\VideoStore\VideoStore\obj\x86\Debug\listMovies.baml
+C:\Users\Anda\Desktop\Projekti4\VideoStore\VideoStore\obj\x86\Debug\LoginWindow.baml
+C:\Users\Anda\Desktop\Projekti4\VideoStore\VideoStore\obj\x86\Debug\MainWindow.baml
+C:\Users\Anda\Desktop\Projekti4\VideoStore\VideoStore\obj\x86\Debug\manual.baml
+C:\Users\Anda\Desktop\Projekti4\VideoStore\VideoStore\obj\x86\Debug\NewGames.baml
+C:\Users\Anda\Desktop\Projekti4\VideoStore\VideoStore\obj\x86\Debug\NewMovies.baml
+C:\Users\Anda\Desktop\Projekti4\VideoStore\VideoStore\obj\x86\Debug\rentedMovies.baml
+C:\Users\Anda\Desktop\Projekti4\VideoStore\VideoStore\obj\x86\Debug\returnMovie.baml
+C:\Users\Anda\Desktop\Projekti4\VideoStore\VideoStore\obj\x86\Debug\salesGames.baml
+C:\Users\Anda\Desktop\Projekti4\VideoStore\VideoStore\obj\x86\Debug\salesMovies.baml
+C:\Users\Anda\Desktop\Projekti4\VideoStore\VideoStore\obj\x86\Debug\SearchGame.baml
+C:\Users\Anda\Desktop\Projekti4\VideoStore\VideoStore\obj\x86\Debug\SearchMovie.baml
+C:\Users\Anda\Desktop\Projekti4\VideoStore\VideoStore\obj\x86\Debug\TopRatedGames.baml
+C:\Users\Anda\Desktop\Projekti4\VideoStore\VideoStore\obj\x86\Debug\TopRatedMovies.baml
+C:\Users\Anda\Desktop\Projekti4\VideoStore\VideoStore\obj\x86\Debug\TopSoldGames.baml
+C:\Users\Anda\Desktop\Projekti4\VideoStore\VideoStore\obj\x86\Debug\Application.baml
+C:\Users\Anda\Desktop\Projekti4\VideoStore\VideoStore\obj\x86\Debug\addEmployee.g.vb
+C:\Users\Anda\Desktop\Projekti4\VideoStore\VideoStore\obj\x86\Debug\addGame.g.vb
+C:\Users\Anda\Desktop\Projekti4\VideoStore\VideoStore\obj\x86\Debug\addMember.g.vb
+C:\Users\Anda\Desktop\Projekti4\VideoStore\VideoStore\obj\x86\Debug\addMovies.g.vb
+C:\Users\Anda\Desktop\Projekti4\VideoStore\VideoStore\obj\x86\Debug\AdministratorLogin.g.vb
+C:\Users\Anda\Desktop\Projekti4\VideoStore\VideoStore\obj\x86\Debug\deleteEmployee.g.vb
+C:\Users\Anda\Desktop\Projekti4\VideoStore\VideoStore\obj\x86\Debug\deleteGame.g.vb
+C:\Users\Anda\Desktop\Projekti4\VideoStore\VideoStore\obj\x86\Debug\deleteMember.g.vb
+C:\Users\Anda\Desktop\Projekti4\VideoStore\VideoStore\obj\x86\Debug\deleteMovie.g.vb
+C:\Users\Anda\Desktop\Projekti4\VideoStore\VideoStore\obj\x86\Debug\editEmployee.g.vb
+C:\Users\Anda\Desktop\Projekti4\VideoStore\VideoStore\obj\x86\Debug\editGame.g.vb
+C:\Users\Anda\Desktop\Projekti4\VideoStore\VideoStore\obj\x86\Debug\editMember.g.vb
+C:\Users\Anda\Desktop\Projekti4\VideoStore\VideoStore\obj\x86\Debug\editMovie.g.vb
+C:\Users\Anda\Desktop\Projekti4\VideoStore\VideoStore\obj\x86\Debug\EmployeeLogin.g.vb
+C:\Users\Anda\Desktop\Projekti4\VideoStore\VideoStore\obj\x86\Debug\GuestLogin.g.vb
+C:\Users\Anda\Desktop\Projekti4\VideoStore\VideoStore\obj\x86\Debug\listEmployee.g.vb
+C:\Users\Anda\Desktop\Projekti4\VideoStore\VideoStore\obj\x86\Debug\listGames.g.vb
+C:\Users\Anda\Desktop\Projekti4\VideoStore\VideoStore\obj\x86\Debug\listMember.g.vb
+C:\Users\Anda\Desktop\Projekti4\VideoStore\VideoStore\obj\x86\Debug\listMovies.g.vb
+C:\Users\Anda\Desktop\Projekti4\VideoStore\VideoStore\obj\x86\Debug\LoginWindow.g.vb
+C:\Users\Anda\Desktop\Projekti4\VideoStore\VideoStore\obj\x86\Debug\MainWindow.g.vb
+C:\Users\Anda\Desktop\Projekti4\VideoStore\VideoStore\obj\x86\Debug\manual.g.vb
+C:\Users\Anda\Desktop\Projekti4\VideoStore\VideoStore\obj\x86\Debug\NewGames.g.vb
+C:\Users\Anda\Desktop\Projekti4\VideoStore\VideoStore\obj\x86\Debug\NewMovies.g.vb
+C:\Users\Anda\Desktop\Projekti4\VideoStore\VideoStore\obj\x86\Debug\rentedMovies.g.vb
+C:\Users\Anda\Desktop\Projekti4\VideoStore\VideoStore\obj\x86\Debug\returnMovie.g.vb
+C:\Users\Anda\Desktop\Projekti4\VideoStore\VideoStore\obj\x86\Debug\salesGames.g.vb
+C:\Users\Anda\Desktop\Projekti4\VideoStore\VideoStore\obj\x86\Debug\salesMovies.g.vb
+C:\Users\Anda\Desktop\Projekti4\VideoStore\VideoStore\obj\x86\Debug\SearchGame.g.vb
+C:\Users\Anda\Desktop\Projekti4\VideoStore\VideoStore\obj\x86\Debug\SearchMovie.g.vb
+C:\Users\Anda\Desktop\Projekti4\VideoStore\VideoStore\obj\x86\Debug\TopRatedGames.g.vb
+C:\Users\Anda\Desktop\Projekti4\VideoStore\VideoStore\obj\x86\Debug\TopRatedMovies.g.vb
+C:\Users\Anda\Desktop\Projekti4\VideoStore\VideoStore\obj\x86\Debug\TopSoldGames.g.vb
+C:\Users\Anda\Desktop\Projekti4\VideoStore\VideoStore\obj\x86\Debug\Application.g.vb
+C:\Users\Anda\Desktop\Projekti4\VideoStore\VideoStore\obj\x86\Debug\VideoStore_MarkupCompile.cache
+C:\Users\Anda\Desktop\Projekti4\VideoStore\VideoStore\obj\x86\Debug\VideoStore.g.resources
+C:\Users\Anda\Desktop\Projekti4\VideoStore\VideoStore\obj\x86\Debug\VideoStore.Resources.resources
+C:\Users\Anda\Desktop\Projekti4\VideoStore\VideoStore\obj\x86\Debug\VideoStore.vbproj.GenerateResource.Cache
+C:\Users\Anda\Desktop\Cambridge Computing Project\Projekti4\VideoStore\VideoStore\obj\x86\Debug\VideoStore.exe
+C:\Users\Anda\Desktop\Cambridge Computing Project\Projekti4\VideoStore\VideoStore\obj\x86\Debug\VideoStore.xml
+C:\Users\Anda\Desktop\Cambridge Computing Project\Projekti4\VideoStore\VideoStore\obj\x86\Debug\VideoStore.pdb
+C:\Users\Anda\Desktop\Cambridge Computing Project\Projekti4\VideoStore\VideoStore\bin\Debug\VideoStore.exe
+C:\Users\Anda\Desktop\Cambridge Computing Project\Projekti4\VideoStore\VideoStore\bin\Debug\VideoStore.pdb
+C:\Users\Anda\Desktop\Cambridge Computing Project\Projekti4\VideoStore\VideoStore\bin\Debug\VideoStore.xml
+C:\Users\Anda\Desktop\Cambridge Computing Project\Projekti4\VideoStore\VideoStore\bin\Debug\FirstFloor.ModernUI.xml
+C:\Users\Anda\Desktop\Cambridge Computing Project\Projekti4\VideoStore\VideoStore\obj\x86\Debug\VideoStore.vbprojResolveAssemblyReference.cache
+C:\Users\Anda\Desktop\Cambridge Computing Project\Projekti4\VideoStore\VideoStore\obj\x86\Debug\addEmployee.baml
+C:\Users\Anda\Desktop\Cambridge Computing Project\Projekti4\VideoStore\VideoStore\obj\x86\Debug\addGame.baml
+C:\Users\Anda\Desktop\Cambridge Computing Project\Projekti4\VideoStore\VideoStore\obj\x86\Debug\addMember.baml
+C:\Users\Anda\Desktop\Cambridge Computing Project\Projekti4\VideoStore\VideoStore\obj\x86\Debug\addMovies.baml
+C:\Users\Anda\Desktop\Cambridge Computing Project\Projekti4\VideoStore\VideoStore\obj\x86\Debug\AdministratorLogin.baml
+C:\Users\Anda\Desktop\Cambridge Computing Project\Projekti4\VideoStore\VideoStore\obj\x86\Debug\deleteEmployee.baml
+C:\Users\Anda\Desktop\Cambridge Computing Project\Projekti4\VideoStore\VideoStore\obj\x86\Debug\deleteGame.baml
+C:\Users\Anda\Desktop\Cambridge Computing Project\Projekti4\VideoStore\VideoStore\obj\x86\Debug\deleteMember.baml
+C:\Users\Anda\Desktop\Cambridge Computing Project\Projekti4\VideoStore\VideoStore\obj\x86\Debug\deleteMovie.baml
+C:\Users\Anda\Desktop\Cambridge Computing Project\Projekti4\VideoStore\VideoStore\obj\x86\Debug\editEmployee.baml
+C:\Users\Anda\Desktop\Cambridge Computing Project\Projekti4\VideoStore\VideoStore\obj\x86\Debug\editGame.baml
+C:\Users\Anda\Desktop\Cambridge Computing Project\Projekti4\VideoStore\VideoStore\obj\x86\Debug\editMember.baml
+C:\Users\Anda\Desktop\Cambridge Computing Project\Projekti4\VideoStore\VideoStore\obj\x86\Debug\editMovie.baml
+C:\Users\Anda\Desktop\Cambridge Computing Project\Projekti4\VideoStore\VideoStore\obj\x86\Debug\EmployeeLogin.baml
+C:\Users\Anda\Desktop\Cambridge Computing Project\Projekti4\VideoStore\VideoStore\obj\x86\Debug\GuestLogin.baml
+C:\Users\Anda\Desktop\Cambridge Computing Project\Projekti4\VideoStore\VideoStore\obj\x86\Debug\listEmployee.baml
+C:\Users\Anda\Desktop\Cambridge Computing Project\Projekti4\VideoStore\VideoStore\obj\x86\Debug\listGames.baml
+C:\Users\Anda\Desktop\Cambridge Computing Project\Projekti4\VideoStore\VideoStore\obj\x86\Debug\listMember.baml
+C:\Users\Anda\Desktop\Cambridge Computing Project\Projekti4\VideoStore\VideoStore\obj\x86\Debug\listMovies.baml
+C:\Users\Anda\Desktop\Cambridge Computing Project\Projekti4\VideoStore\VideoStore\obj\x86\Debug\LoginWindow.baml
+C:\Users\Anda\Desktop\Cambridge Computing Project\Projekti4\VideoStore\VideoStore\obj\x86\Debug\MainWindow.baml
+C:\Users\Anda\Desktop\Cambridge Computing Project\Projekti4\VideoStore\VideoStore\obj\x86\Debug\manual.baml
+C:\Users\Anda\Desktop\Cambridge Computing Project\Projekti4\VideoStore\VideoStore\obj\x86\Debug\NewGames.baml
+C:\Users\Anda\Desktop\Cambridge Computing Project\Projekti4\VideoStore\VideoStore\obj\x86\Debug\NewMovies.baml
+C:\Users\Anda\Desktop\Cambridge Computing Project\Projekti4\VideoStore\VideoStore\obj\x86\Debug\rentedMovies.baml
+C:\Users\Anda\Desktop\Cambridge Computing Project\Projekti4\VideoStore\VideoStore\obj\x86\Debug\returnMovie.baml
+C:\Users\Anda\Desktop\Cambridge Computing Project\Projekti4\VideoStore\VideoStore\obj\x86\Debug\salesGames.baml
+C:\Users\Anda\Desktop\Cambridge Computing Project\Projekti4\VideoStore\VideoStore\obj\x86\Debug\salesMovies.baml
+C:\Users\Anda\Desktop\Cambridge Computing Project\Projekti4\VideoStore\VideoStore\obj\x86\Debug\SearchGame.baml
+C:\Users\Anda\Desktop\Cambridge Computing Project\Projekti4\VideoStore\VideoStore\obj\x86\Debug\SearchMovie.baml
+C:\Users\Anda\Desktop\Cambridge Computing Project\Projekti4\VideoStore\VideoStore\obj\x86\Debug\TopRatedGames.baml
+C:\Users\Anda\Desktop\Cambridge Computing Project\Projekti4\VideoStore\VideoStore\obj\x86\Debug\TopRatedMovies.baml
+C:\Users\Anda\Desktop\Cambridge Computing Project\Projekti4\VideoStore\VideoStore\obj\x86\Debug\TopSoldGames.baml
+C:\Users\Anda\Desktop\Cambridge Computing Project\Projekti4\VideoStore\VideoStore\obj\x86\Debug\Application.baml
+C:\Users\Anda\Desktop\Cambridge Computing Project\Projekti4\VideoStore\VideoStore\obj\x86\Debug\addEmployee.g.vb
+C:\Users\Anda\Desktop\Cambridge Computing Project\Projekti4\VideoStore\VideoStore\obj\x86\Debug\addGame.g.vb
+C:\Users\Anda\Desktop\Cambridge Computing Project\Projekti4\VideoStore\VideoStore\obj\x86\Debug\addMember.g.vb
+C:\Users\Anda\Desktop\Cambridge Computing Project\Projekti4\VideoStore\VideoStore\obj\x86\Debug\addMovies.g.vb
+C:\Users\Anda\Desktop\Cambridge Computing Project\Projekti4\VideoStore\VideoStore\obj\x86\Debug\AdministratorLogin.g.vb
+C:\Users\Anda\Desktop\Cambridge Computing Project\Projekti4\VideoStore\VideoStore\obj\x86\Debug\deleteEmployee.g.vb
+C:\Users\Anda\Desktop\Cambridge Computing Project\Projekti4\VideoStore\VideoStore\obj\x86\Debug\deleteGame.g.vb
+C:\Users\Anda\Desktop\Cambridge Computing Project\Projekti4\VideoStore\VideoStore\obj\x86\Debug\deleteMember.g.vb
+C:\Users\Anda\Desktop\Cambridge Computing Project\Projekti4\VideoStore\VideoStore\obj\x86\Debug\deleteMovie.g.vb
+C:\Users\Anda\Desktop\Cambridge Computing Project\Projekti4\VideoStore\VideoStore\obj\x86\Debug\editEmployee.g.vb
+C:\Users\Anda\Desktop\Cambridge Computing Project\Projekti4\VideoStore\VideoStore\obj\x86\Debug\editGame.g.vb
+C:\Users\Anda\Desktop\Cambridge Computing Project\Projekti4\VideoStore\VideoStore\obj\x86\Debug\editMember.g.vb
+C:\Users\Anda\Desktop\Cambridge Computing Project\Projekti4\VideoStore\VideoStore\obj\x86\Debug\editMovie.g.vb
+C:\Users\Anda\Desktop\Cambridge Computing Project\Projekti4\VideoStore\VideoStore\obj\x86\Debug\EmployeeLogin.g.vb
+C:\Users\Anda\Desktop\Cambridge Computing Project\Projekti4\VideoStore\VideoStore\obj\x86\Debug\GuestLogin.g.vb
+C:\Users\Anda\Desktop\Cambridge Computing Project\Projekti4\VideoStore\VideoStore\obj\x86\Debug\listEmployee.g.vb
+C:\Users\Anda\Desktop\Cambridge Computing Project\Projekti4\VideoStore\VideoStore\obj\x86\Debug\listGames.g.vb
+C:\Users\Anda\Desktop\Cambridge Computing Project\Projekti4\VideoStore\VideoStore\obj\x86\Debug\listMember.g.vb
+C:\Users\Anda\Desktop\Cambridge Computing Project\Projekti4\VideoStore\VideoStore\obj\x86\Debug\listMovies.g.vb
+C:\Users\Anda\Desktop\Cambridge Computing Project\Projekti4\VideoStore\VideoStore\obj\x86\Debug\LoginWindow.g.vb
+C:\Users\Anda\Desktop\Cambridge Computing Project\Projekti4\VideoStore\VideoStore\obj\x86\Debug\MainWindow.g.vb
+C:\Users\Anda\Desktop\Cambridge Computing Project\Projekti4\VideoStore\VideoStore\obj\x86\Debug\manual.g.vb
+C:\Users\Anda\Desktop\Cambridge Computing Project\Projekti4\VideoStore\VideoStore\obj\x86\Debug\NewGames.g.vb
+C:\Users\Anda\Desktop\Cambridge Computing Project\Projekti4\VideoStore\VideoStore\obj\x86\Debug\NewMovies.g.vb
+C:\Users\Anda\Desktop\Cambridge Computing Project\Projekti4\VideoStore\VideoStore\obj\x86\Debug\rentedMovies.g.vb
+C:\Users\Anda\Desktop\Cambridge Computing Project\Projekti4\VideoStore\VideoStore\obj\x86\Debug\returnMovie.g.vb
+C:\Users\Anda\Desktop\Cambridge Computing Project\Projekti4\VideoStore\VideoStore\obj\x86\Debug\salesGames.g.vb
+C:\Users\Anda\Desktop\Cambridge Computing Project\Projekti4\VideoStore\VideoStore\obj\x86\Debug\salesMovies.g.vb
+C:\Users\Anda\Desktop\Cambridge Computing Project\Projekti4\VideoStore\VideoStore\obj\x86\Debug\SearchGame.g.vb
+C:\Users\Anda\Desktop\Cambridge Computing Project\Projekti4\VideoStore\VideoStore\obj\x86\Debug\SearchMovie.g.vb
+C:\Users\Anda\Desktop\Cambridge Computing Project\Projekti4\VideoStore\VideoStore\obj\x86\Debug\TopRatedGames.g.vb
+C:\Users\Anda\Desktop\Cambridge Computing Project\Projekti4\VideoStore\VideoStore\obj\x86\Debug\TopRatedMovies.g.vb
+C:\Users\Anda\Desktop\Cambridge Computing Project\Projekti4\VideoStore\VideoStore\obj\x86\Debug\TopSoldGames.g.vb
+C:\Users\Anda\Desktop\Cambridge Computing Project\Projekti4\VideoStore\VideoStore\obj\x86\Debug\Application.g.vb
+C:\Users\Anda\Desktop\Cambridge Computing Project\Projekti4\VideoStore\VideoStore\obj\x86\Debug\VideoStore_MarkupCompile.cache
+C:\Users\Anda\Desktop\Cambridge Computing Project\Projekti4\VideoStore\VideoStore\obj\x86\Debug\VideoStore.g.resources
+C:\Users\Anda\Desktop\Cambridge Computing Project\Projekti4\VideoStore\VideoStore\obj\x86\Debug\VideoStore.Resources.resources
+C:\Users\Anda\Desktop\Cambridge Computing Project\Projekti4\VideoStore\VideoStore\obj\x86\Debug\VideoStore.vbproj.GenerateResource.Cache
+C:\Users\Anda\Desktop\Cambridge Computing Project\Projekti\VideoStore\VideoStore\obj\x86\Debug\VideoStore.exe
+C:\Users\Anda\Desktop\Cambridge Computing Project\Projekti\VideoStore\VideoStore\obj\x86\Debug\VideoStore.xml
+C:\Users\Anda\Desktop\Cambridge Computing Project\Projekti\VideoStore\VideoStore\obj\x86\Debug\VideoStore.pdb
+C:\Users\Anda\Desktop\Cambridge Computing Project\Projekti\VideoStore\VideoStore\bin\Debug\VideoStore.exe
+C:\Users\Anda\Desktop\Cambridge Computing Project\Projekti\VideoStore\VideoStore\bin\Debug\VideoStore.pdb
+C:\Users\Anda\Desktop\Cambridge Computing Project\Projekti\VideoStore\VideoStore\bin\Debug\VideoStore.xml
+C:\Users\Anda\Desktop\Cambridge Computing Project\Projekti\VideoStore\VideoStore\bin\Debug\FirstFloor.ModernUI.xml
+C:\Users\Anda\Desktop\Cambridge Computing Project\Projekti\VideoStore\VideoStore\obj\x86\Debug\VideoStore.vbprojResolveAssemblyReference.cache
+C:\Users\Anda\Desktop\Cambridge Computing Project\Projekti\VideoStore\VideoStore\obj\x86\Debug\addEmployee.baml
+C:\Users\Anda\Desktop\Cambridge Computing Project\Projekti\VideoStore\VideoStore\obj\x86\Debug\addGame.baml
+C:\Users\Anda\Desktop\Cambridge Computing Project\Projekti\VideoStore\VideoStore\obj\x86\Debug\addMember.baml
+C:\Users\Anda\Desktop\Cambridge Computing Project\Projekti\VideoStore\VideoStore\obj\x86\Debug\addMovies.baml
+C:\Users\Anda\Desktop\Cambridge Computing Project\Projekti\VideoStore\VideoStore\obj\x86\Debug\AdministratorLogin.baml
+C:\Users\Anda\Desktop\Cambridge Computing Project\Projekti\VideoStore\VideoStore\obj\x86\Debug\deleteEmployee.baml
+C:\Users\Anda\Desktop\Cambridge Computing Project\Projekti\VideoStore\VideoStore\obj\x86\Debug\deleteGame.baml
+C:\Users\Anda\Desktop\Cambridge Computing Project\Projekti\VideoStore\VideoStore\obj\x86\Debug\deleteMember.baml
+C:\Users\Anda\Desktop\Cambridge Computing Project\Projekti\VideoStore\VideoStore\obj\x86\Debug\deleteMovie.baml
+C:\Users\Anda\Desktop\Cambridge Computing Project\Projekti\VideoStore\VideoStore\obj\x86\Debug\EmployeeLogin.baml
+C:\Users\Anda\Desktop\Cambridge Computing Project\Projekti\VideoStore\VideoStore\obj\x86\Debug\GuestLogin.baml
+C:\Users\Anda\Desktop\Cambridge Computing Project\Projekti\VideoStore\VideoStore\obj\x86\Debug\listEmployee.baml
+C:\Users\Anda\Desktop\Cambridge Computing Project\Projekti\VideoStore\VideoStore\obj\x86\Debug\listGames.baml
+C:\Users\Anda\Desktop\Cambridge Computing Project\Projekti\VideoStore\VideoStore\obj\x86\Debug\listMember.baml
+C:\Users\Anda\Desktop\Cambridge Computing Project\Projekti\VideoStore\VideoStore\obj\x86\Debug\listMovies.baml
+C:\Users\Anda\Desktop\Cambridge Computing Project\Projekti\VideoStore\VideoStore\obj\x86\Debug\LoginWindow.baml
+C:\Users\Anda\Desktop\Cambridge Computing Project\Projekti\VideoStore\VideoStore\obj\x86\Debug\MainWindow.baml
+C:\Users\Anda\Desktop\Cambridge Computing Project\Projekti\VideoStore\VideoStore\obj\x86\Debug\manual.baml
+C:\Users\Anda\Desktop\Cambridge Computing Project\Projekti\VideoStore\VideoStore\obj\x86\Debug\NewGames.baml
+C:\Users\Anda\Desktop\Cambridge Computing Project\Projekti\VideoStore\VideoStore\obj\x86\Debug\NewMovies.baml
+C:\Users\Anda\Desktop\Cambridge Computing Project\Projekti\VideoStore\VideoStore\obj\x86\Debug\rentedMovies.baml
+C:\Users\Anda\Desktop\Cambridge Computing Project\Projekti\VideoStore\VideoStore\obj\x86\Debug\returnMovie.baml
+C:\Users\Anda\Desktop\Cambridge Computing Project\Projekti\VideoStore\VideoStore\obj\x86\Debug\salesGames.baml
+C:\Users\Anda\Desktop\Cambridge Computing Project\Projekti\VideoStore\VideoStore\obj\x86\Debug\salesMovies.baml
+C:\Users\Anda\Desktop\Cambridge Computing Project\Projekti\VideoStore\VideoStore\obj\x86\Debug\SearchGame.baml
+C:\Users\Anda\Desktop\Cambridge Computing Project\Projekti\VideoStore\VideoStore\obj\x86\Debug\SearchMovie.baml
+C:\Users\Anda\Desktop\Cambridge Computing Project\Projekti\VideoStore\VideoStore\obj\x86\Debug\TopRatedGames.baml
+C:\Users\Anda\Desktop\Cambridge Computing Project\Projekti\VideoStore\VideoStore\obj\x86\Debug\TopRatedMovies.baml
+C:\Users\Anda\Desktop\Cambridge Computing Project\Projekti\VideoStore\VideoStore\obj\x86\Debug\TopSoldGames.baml
+C:\Users\Anda\Desktop\Cambridge Computing Project\Projekti\VideoStore\VideoStore\obj\x86\Debug\Application.baml
+C:\Users\Anda\Desktop\Cambridge Computing Project\Projekti\VideoStore\VideoStore\obj\x86\Debug\addEmployee.g.vb
+C:\Users\Anda\Desktop\Cambridge Computing Project\Projekti\VideoStore\VideoStore\obj\x86\Debug\addGame.g.vb
+C:\Users\Anda\Desktop\Cambridge Computing Project\Projekti\VideoStore\VideoStore\obj\x86\Debug\addMember.g.vb
+C:\Users\Anda\Desktop\Cambridge Computing Project\Projekti\VideoStore\VideoStore\obj\x86\Debug\addMovies.g.vb
+C:\Users\Anda\Desktop\Cambridge Computing Project\Projekti\VideoStore\VideoStore\obj\x86\Debug\AdministratorLogin.g.vb
+C:\Users\Anda\Desktop\Cambridge Computing Project\Projekti\VideoStore\VideoStore\obj\x86\Debug\deleteEmployee.g.vb
+C:\Users\Anda\Desktop\Cambridge Computing Project\Projekti\VideoStore\VideoStore\obj\x86\Debug\deleteGame.g.vb
+C:\Users\Anda\Desktop\Cambridge Computing Project\Projekti\VideoStore\VideoStore\obj\x86\Debug\deleteMember.g.vb
+C:\Users\Anda\Desktop\Cambridge Computing Project\Projekti\VideoStore\VideoStore\obj\x86\Debug\deleteMovie.g.vb
+C:\Users\Anda\Desktop\Cambridge Computing Project\Projekti\VideoStore\VideoStore\obj\x86\Debug\EmployeeLogin.g.vb
+C:\Users\Anda\Desktop\Cambridge Computing Project\Projekti\VideoStore\VideoStore\obj\x86\Debug\GuestLogin.g.vb
+C:\Users\Anda\Desktop\Cambridge Computing Project\Projekti\VideoStore\VideoStore\obj\x86\Debug\listEmployee.g.vb
+C:\Users\Anda\Desktop\Cambridge Computing Project\Projekti\VideoStore\VideoStore\obj\x86\Debug\listGames.g.vb
+C:\Users\Anda\Desktop\Cambridge Computing Project\Projekti\VideoStore\VideoStore\obj\x86\Debug\listMember.g.vb
+C:\Users\Anda\Desktop\Cambridge Computing Project\Projekti\VideoStore\VideoStore\obj\x86\Debug\listMovies.g.vb
+C:\Users\Anda\Desktop\Cambridge Computing Project\Projekti\VideoStore\VideoStore\obj\x86\Debug\LoginWindow.g.vb
+C:\Users\Anda\Desktop\Cambridge Computing Project\Projekti\VideoStore\VideoStore\obj\x86\Debug\MainWindow.g.vb
+C:\Users\Anda\Desktop\Cambridge Computing Project\Projekti\VideoStore\VideoStore\obj\x86\Debug\manual.g.vb
+C:\Users\Anda\Desktop\Cambridge Computing Project\Projekti\VideoStore\VideoStore\obj\x86\Debug\NewGames.g.vb
+C:\Users\Anda\Desktop\Cambridge Computing Project\Projekti\VideoStore\VideoStore\obj\x86\Debug\NewMovies.g.vb
+C:\Users\Anda\Desktop\Cambridge Computing Project\Projekti\VideoStore\VideoStore\obj\x86\Debug\rentedMovies.g.vb
+C:\Users\Anda\Desktop\Cambridge Computing Project\Projekti\VideoStore\VideoStore\obj\x86\Debug\returnMovie.g.vb
+C:\Users\Anda\Desktop\Cambridge Computing Project\Projekti\VideoStore\VideoStore\obj\x86\Debug\salesGames.g.vb
+C:\Users\Anda\Desktop\Cambridge Computing Project\Projekti\VideoStore\VideoStore\obj\x86\Debug\salesMovies.g.vb
+C:\Users\Anda\Desktop\Cambridge Computing Project\Projekti\VideoStore\VideoStore\obj\x86\Debug\SearchGame.g.vb
+C:\Users\Anda\Desktop\Cambridge Computing Project\Projekti\VideoStore\VideoStore\obj\x86\Debug\SearchMovie.g.vb
+C:\Users\Anda\Desktop\Cambridge Computing Project\Projekti\VideoStore\VideoStore\obj\x86\Debug\TopRatedGames.g.vb
+C:\Users\Anda\Desktop\Cambridge Computing Project\Projekti\VideoStore\VideoStore\obj\x86\Debug\TopRatedMovies.g.vb
+C:\Users\Anda\Desktop\Cambridge Computing Project\Projekti\VideoStore\VideoStore\obj\x86\Debug\TopSoldGames.g.vb
+C:\Users\Anda\Desktop\Cambridge Computing Project\Projekti\VideoStore\VideoStore\obj\x86\Debug\Application.g.vb
+C:\Users\Anda\Desktop\Cambridge Computing Project\Projekti\VideoStore\VideoStore\obj\x86\Debug\VideoStore_MarkupCompile.cache
+C:\Users\Anda\Desktop\Cambridge Computing Project\Projekti\VideoStore\VideoStore\obj\x86\Debug\VideoStore.g.resources
+C:\Users\Anda\Desktop\Cambridge Computing Project\Projekti\VideoStore\VideoStore\obj\x86\Debug\VideoStore.Resources.resources
+C:\Users\Anda\Desktop\Cambridge Computing Project\Projekti\VideoStore\VideoStore\obj\x86\Debug\VideoStore.vbproj.GenerateResource.Cache
+C:\Users\Anda\Desktop\Cambridge Computing Project\Projekti\VideoStore\VideoStore\obj\x86\Debug\sellMovie.baml
+C:\Users\Anda\Desktop\Cambridge Computing Project\Projekti\VideoStore\VideoStore\obj\x86\Debug\sellMovie.g.vb
+C:\Users\Robert\Documents\Visual Studio 2012\Projects\VideoStore\VideoStore\obj\x86\Debug\VideoStore.exe
+C:\Users\Robert\Documents\Visual Studio 2012\Projects\VideoStore\VideoStore\obj\x86\Debug\VideoStore.xml
+C:\Users\Robert\Documents\Visual Studio 2012\Projects\VideoStore\VideoStore\obj\x86\Debug\VideoStore.pdb
+C:\Users\Robert\Documents\Visual Studio 2012\Projects\VideoStore\VideoStore\bin\Debug\VideoStore.exe
+C:\Users\Robert\Documents\Visual Studio 2012\Projects\VideoStore\VideoStore\bin\Debug\VideoStore.pdb
+C:\Users\Robert\Documents\Visual Studio 2012\Projects\VideoStore\VideoStore\bin\Debug\VideoStore.xml
+C:\Users\Robert\Documents\Visual Studio 2012\Projects\VideoStore\VideoStore\obj\x86\Debug\VideoStore.vbprojResolveAssemblyReference.cache
+C:\Users\Robert\Documents\Visual Studio 2012\Projects\VideoStore\VideoStore\obj\x86\Debug\addEmployee.baml
+C:\Users\Robert\Documents\Visual Studio 2012\Projects\VideoStore\VideoStore\obj\x86\Debug\addGame.baml
+C:\Users\Robert\Documents\Visual Studio 2012\Projects\VideoStore\VideoStore\obj\x86\Debug\addMember.baml
+C:\Users\Robert\Documents\Visual Studio 2012\Projects\VideoStore\VideoStore\obj\x86\Debug\addMovies.baml
+C:\Users\Robert\Documents\Visual Studio 2012\Projects\VideoStore\VideoStore\obj\x86\Debug\AdministratorLogin.baml
+C:\Users\Robert\Documents\Visual Studio 2012\Projects\VideoStore\VideoStore\obj\x86\Debug\EmployeeLogin.baml
+C:\Users\Robert\Documents\Visual Studio 2012\Projects\VideoStore\VideoStore\obj\x86\Debug\GuestLogin.baml
+C:\Users\Robert\Documents\Visual Studio 2012\Projects\VideoStore\VideoStore\obj\x86\Debug\listEmployee.baml
+C:\Users\Robert\Documents\Visual Studio 2012\Projects\VideoStore\VideoStore\obj\x86\Debug\listGames.baml
+C:\Users\Robert\Documents\Visual Studio 2012\Projects\VideoStore\VideoStore\obj\x86\Debug\listMember.baml
+C:\Users\Robert\Documents\Visual Studio 2012\Projects\VideoStore\VideoStore\obj\x86\Debug\listMovies.baml
+C:\Users\Robert\Documents\Visual Studio 2012\Projects\VideoStore\VideoStore\obj\x86\Debug\LoginWindow.baml
+C:\Users\Robert\Documents\Visual Studio 2012\Projects\VideoStore\VideoStore\obj\x86\Debug\MainWindow.baml
+C:\Users\Robert\Documents\Visual Studio 2012\Projects\VideoStore\VideoStore\obj\x86\Debug\manual.baml
+C:\Users\Robert\Documents\Visual Studio 2012\Projects\VideoStore\VideoStore\obj\x86\Debug\NewGames.baml
+C:\Users\Robert\Documents\Visual Studio 2012\Projects\VideoStore\VideoStore\obj\x86\Debug\NewMovies.baml
+C:\Users\Robert\Documents\Visual Studio 2012\Projects\VideoStore\VideoStore\obj\x86\Debug\rentedMovies.baml
+C:\Users\Robert\Documents\Visual Studio 2012\Projects\VideoStore\VideoStore\obj\x86\Debug\salesGames.baml
+C:\Users\Robert\Documents\Visual Studio 2012\Projects\VideoStore\VideoStore\obj\x86\Debug\salesMovies.baml
+C:\Users\Robert\Documents\Visual Studio 2012\Projects\VideoStore\VideoStore\obj\x86\Debug\SearchGame.baml
+C:\Users\Robert\Documents\Visual Studio 2012\Projects\VideoStore\VideoStore\obj\x86\Debug\SearchMovie.baml
+C:\Users\Robert\Documents\Visual Studio 2012\Projects\VideoStore\VideoStore\obj\x86\Debug\sellMovie.baml
+C:\Users\Robert\Documents\Visual Studio 2012\Projects\VideoStore\VideoStore\obj\x86\Debug\TopRatedGames.baml
+C:\Users\Robert\Documents\Visual Studio 2012\Projects\VideoStore\VideoStore\obj\x86\Debug\TopRatedMovies.baml
+C:\Users\Robert\Documents\Visual Studio 2012\Projects\VideoStore\VideoStore\obj\x86\Debug\TopSoldGames.baml
+C:\Users\Robert\Documents\Visual Studio 2012\Projects\VideoStore\VideoStore\obj\x86\Debug\Application.baml
+C:\Users\Robert\Documents\Visual Studio 2012\Projects\VideoStore\VideoStore\obj\x86\Debug\addEmployee.g.vb
+C:\Users\Robert\Documents\Visual Studio 2012\Projects\VideoStore\VideoStore\obj\x86\Debug\addGame.g.vb
+C:\Users\Robert\Documents\Visual Studio 2012\Projects\VideoStore\VideoStore\obj\x86\Debug\addMember.g.vb
+C:\Users\Robert\Documents\Visual Studio 2012\Projects\VideoStore\VideoStore\obj\x86\Debug\addMovies.g.vb
+C:\Users\Robert\Documents\Visual Studio 2012\Projects\VideoStore\VideoStore\obj\x86\Debug\AdministratorLogin.g.vb
+C:\Users\Robert\Documents\Visual Studio 2012\Projects\VideoStore\VideoStore\obj\x86\Debug\EmployeeLogin.g.vb
+C:\Users\Robert\Documents\Visual Studio 2012\Projects\VideoStore\VideoStore\obj\x86\Debug\GuestLogin.g.vb
+C:\Users\Robert\Documents\Visual Studio 2012\Projects\VideoStore\VideoStore\obj\x86\Debug\listEmployee.g.vb
+C:\Users\Robert\Documents\Visual Studio 2012\Projects\VideoStore\VideoStore\obj\x86\Debug\listGames.g.vb
+C:\Users\Robert\Documents\Visual Studio 2012\Projects\VideoStore\VideoStore\obj\x86\Debug\listMember.g.vb
+C:\Users\Robert\Documents\Visual Studio 2012\Projects\VideoStore\VideoStore\obj\x86\Debug\listMovies.g.vb
+C:\Users\Robert\Documents\Visual Studio 2012\Projects\VideoStore\VideoStore\obj\x86\Debug\LoginWindow.g.vb
+C:\Users\Robert\Documents\Visual Studio 2012\Projects\VideoStore\VideoStore\obj\x86\Debug\MainWindow.g.vb
+C:\Users\Robert\Documents\Visual Studio 2012\Projects\VideoStore\VideoStore\obj\x86\Debug\manual.g.vb
+C:\Users\Robert\Documents\Visual Studio 2012\Projects\VideoStore\VideoStore\obj\x86\Debug\NewGames.g.vb
+C:\Users\Robert\Documents\Visual Studio 2012\Projects\VideoStore\VideoStore\obj\x86\Debug\NewMovies.g.vb
+C:\Users\Robert\Documents\Visual Studio 2012\Projects\VideoStore\VideoStore\obj\x86\Debug\rentedMovies.g.vb
+C:\Users\Robert\Documents\Visual Studio 2012\Projects\VideoStore\VideoStore\obj\x86\Debug\salesGames.g.vb
+C:\Users\Robert\Documents\Visual Studio 2012\Projects\VideoStore\VideoStore\obj\x86\Debug\salesMovies.g.vb
+C:\Users\Robert\Documents\Visual Studio 2012\Projects\VideoStore\VideoStore\obj\x86\Debug\SearchGame.g.vb
+C:\Users\Robert\Documents\Visual Studio 2012\Projects\VideoStore\VideoStore\obj\x86\Debug\SearchMovie.g.vb
+C:\Users\Robert\Documents\Visual Studio 2012\Projects\VideoStore\VideoStore\obj\x86\Debug\sellMovie.g.vb
+C:\Users\Robert\Documents\Visual Studio 2012\Projects\VideoStore\VideoStore\obj\x86\Debug\TopRatedGames.g.vb
+C:\Users\Robert\Documents\Visual Studio 2012\Projects\VideoStore\VideoStore\obj\x86\Debug\TopRatedMovies.g.vb
+C:\Users\Robert\Documents\Visual Studio 2012\Projects\VideoStore\VideoStore\obj\x86\Debug\TopSoldGames.g.vb
+C:\Users\Robert\Documents\Visual Studio 2012\Projects\VideoStore\VideoStore\obj\x86\Debug\Application.g.vb
+C:\Users\Robert\Documents\Visual Studio 2012\Projects\VideoStore\VideoStore\obj\x86\Debug\VideoStore_MarkupCompile.cache
+C:\Users\Robert\Documents\Visual Studio 2012\Projects\VideoStore\VideoStore\obj\x86\Debug\VideoStore.g.resources
+C:\Users\Robert\Documents\Visual Studio 2012\Projects\VideoStore\VideoStore\obj\x86\Debug\VideoStore.Resources.resources
+C:\Users\Robert\Documents\Visual Studio 2012\Projects\VideoStore\VideoStore\obj\x86\Debug\VideoStore.vbproj.GenerateResource.Cache
+C:\Users\Robert\Documents\Visual Studio 2012\Projects\VideoStore\VideoStore\obj\x86\Debug\rentMovie.baml
+C:\Users\Robert\Documents\Visual Studio 2012\Projects\VideoStore\VideoStore\obj\x86\Debug\rentMovie.g.vb
+C:\Users\Robert\Documents\Visual Studio 2012\Projects\VideoStore\VideoStore\obj\x86\Debug\AddCompatibility.baml
+C:\Users\Robert\Documents\Visual Studio 2012\Projects\VideoStore\VideoStore\obj\x86\Debug\AddCompatibility.g.vb
+C:\Users\Anda\Documents\Visual Studio 2010\Projects\VideoStore\VideoStore\obj\x86\Debug\VideoStore.exe
+C:\Users\Anda\Documents\Visual Studio 2010\Projects\VideoStore\VideoStore\obj\x86\Debug\VideoStore.xml
+C:\Users\Anda\Documents\Visual Studio 2010\Projects\VideoStore\VideoStore\obj\x86\Debug\VideoStore.pdb
+C:\Users\Anda\Documents\Visual Studio 2010\Projects\VideoStore\VideoStore\bin\Debug\VideoStore.exe
+C:\Users\Anda\Documents\Visual Studio 2010\Projects\VideoStore\VideoStore\bin\Debug\VideoStore.pdb
+C:\Users\Anda\Documents\Visual Studio 2010\Projects\VideoStore\VideoStore\bin\Debug\VideoStore.xml
+C:\Users\Anda\Documents\Visual Studio 2010\Projects\VideoStore\VideoStore\bin\Debug\FirstFloor.ModernUI.xml
+C:\Users\Anda\Documents\Visual Studio 2010\Projects\VideoStore\VideoStore\obj\x86\Debug\VideoStore.vbprojResolveAssemblyReference.cache
+C:\Users\Anda\Documents\Visual Studio 2010\Projects\VideoStore\VideoStore\obj\x86\Debug\addCompatibility.baml
+C:\Users\Anda\Documents\Visual Studio 2010\Projects\VideoStore\VideoStore\obj\x86\Debug\addEmployee.baml
+C:\Users\Anda\Documents\Visual Studio 2010\Projects\VideoStore\VideoStore\obj\x86\Debug\addGame.baml
+C:\Users\Anda\Documents\Visual Studio 2010\Projects\VideoStore\VideoStore\obj\x86\Debug\addMember.baml
+C:\Users\Anda\Documents\Visual Studio 2010\Projects\VideoStore\VideoStore\obj\x86\Debug\addMovies.baml
+C:\Users\Anda\Documents\Visual Studio 2010\Projects\VideoStore\VideoStore\obj\x86\Debug\AdministratorLogin.baml
+C:\Users\Anda\Documents\Visual Studio 2010\Projects\VideoStore\VideoStore\obj\x86\Debug\EmployeeLogin.baml
+C:\Users\Anda\Documents\Visual Studio 2010\Projects\VideoStore\VideoStore\obj\x86\Debug\GuestLogin.baml
+C:\Users\Anda\Documents\Visual Studio 2010\Projects\VideoStore\VideoStore\obj\x86\Debug\listEmployee.baml
+C:\Users\Anda\Documents\Visual Studio 2010\Projects\VideoStore\VideoStore\obj\x86\Debug\listGames.baml
+C:\Users\Anda\Documents\Visual Studio 2010\Projects\VideoStore\VideoStore\obj\x86\Debug\listMember.baml
+C:\Users\Anda\Documents\Visual Studio 2010\Projects\VideoStore\VideoStore\obj\x86\Debug\listMovies.baml
+C:\Users\Anda\Documents\Visual Studio 2010\Projects\VideoStore\VideoStore\obj\x86\Debug\LoginWindow.baml
+C:\Users\Anda\Documents\Visual Studio 2010\Projects\VideoStore\VideoStore\obj\x86\Debug\MainWindow.baml
+C:\Users\Anda\Documents\Visual Studio 2010\Projects\VideoStore\VideoStore\obj\x86\Debug\manual.baml
+C:\Users\Anda\Documents\Visual Studio 2010\Projects\VideoStore\VideoStore\obj\x86\Debug\NewGames.baml
+C:\Users\Anda\Documents\Visual Studio 2010\Projects\VideoStore\VideoStore\obj\x86\Debug\NewMovies.baml
+C:\Users\Anda\Documents\Visual Studio 2010\Projects\VideoStore\VideoStore\obj\x86\Debug\rentedMovies.baml
+C:\Users\Anda\Documents\Visual Studio 2010\Projects\VideoStore\VideoStore\obj\x86\Debug\rentMovie.baml
+C:\Users\Anda\Documents\Visual Studio 2010\Projects\VideoStore\VideoStore\obj\x86\Debug\salesGames.baml
+C:\Users\Anda\Documents\Visual Studio 2010\Projects\VideoStore\VideoStore\obj\x86\Debug\salesMovies.baml
+C:\Users\Anda\Documents\Visual Studio 2010\Projects\VideoStore\VideoStore\obj\x86\Debug\SearchGame.baml
+C:\Users\Anda\Documents\Visual Studio 2010\Projects\VideoStore\VideoStore\obj\x86\Debug\SearchMovie.baml
+C:\Users\Anda\Documents\Visual Studio 2010\Projects\VideoStore\VideoStore\obj\x86\Debug\sellMovie.baml
+C:\Users\Anda\Documents\Visual Studio 2010\Projects\VideoStore\VideoStore\obj\x86\Debug\TopRatedGames.baml
+C:\Users\Anda\Documents\Visual Studio 2010\Projects\VideoStore\VideoStore\obj\x86\Debug\TopRatedMovies.baml
+C:\Users\Anda\Documents\Visual Studio 2010\Projects\VideoStore\VideoStore\obj\x86\Debug\TopSoldGames.baml
+C:\Users\Anda\Documents\Visual Studio 2010\Projects\VideoStore\VideoStore\obj\x86\Debug\Application.baml
+C:\Users\Anda\Documents\Visual Studio 2010\Projects\VideoStore\VideoStore\obj\x86\Debug\addCompatibility.g.vb
+C:\Users\Anda\Documents\Visual Studio 2010\Projects\VideoStore\VideoStore\obj\x86\Debug\addEmployee.g.vb
+C:\Users\Anda\Documents\Visual Studio 2010\Projects\VideoStore\VideoStore\obj\x86\Debug\addGame.g.vb
+C:\Users\Anda\Documents\Visual Studio 2010\Projects\VideoStore\VideoStore\obj\x86\Debug\addMember.g.vb
+C:\Users\Anda\Documents\Visual Studio 2010\Projects\VideoStore\VideoStore\obj\x86\Debug\addMovies.g.vb
+C:\Users\Anda\Documents\Visual Studio 2010\Projects\VideoStore\VideoStore\obj\x86\Debug\AdministratorLogin.g.vb
+C:\Users\Anda\Documents\Visual Studio 2010\Projects\VideoStore\VideoStore\obj\x86\Debug\EmployeeLogin.g.vb
+C:\Users\Anda\Documents\Visual Studio 2010\Projects\VideoStore\VideoStore\obj\x86\Debug\GuestLogin.g.vb
+C:\Users\Anda\Documents\Visual Studio 2010\Projects\VideoStore\VideoStore\obj\x86\Debug\listEmployee.g.vb
+C:\Users\Anda\Documents\Visual Studio 2010\Projects\VideoStore\VideoStore\obj\x86\Debug\listGames.g.vb
+C:\Users\Anda\Documents\Visual Studio 2010\Projects\VideoStore\VideoStore\obj\x86\Debug\listMember.g.vb
+C:\Users\Anda\Documents\Visual Studio 2010\Projects\VideoStore\VideoStore\obj\x86\Debug\listMovies.g.vb
+C:\Users\Anda\Documents\Visual Studio 2010\Projects\VideoStore\VideoStore\obj\x86\Debug\LoginWindow.g.vb
+C:\Users\Anda\Documents\Visual Studio 2010\Projects\VideoStore\VideoStore\obj\x86\Debug\MainWindow.g.vb
+C:\Users\Anda\Documents\Visual Studio 2010\Projects\VideoStore\VideoStore\obj\x86\Debug\manual.g.vb
+C:\Users\Anda\Documents\Visual Studio 2010\Projects\VideoStore\VideoStore\obj\x86\Debug\NewGames.g.vb
+C:\Users\Anda\Documents\Visual Studio 2010\Projects\VideoStore\VideoStore\obj\x86\Debug\NewMovies.g.vb
+C:\Users\Anda\Documents\Visual Studio 2010\Projects\VideoStore\VideoStore\obj\x86\Debug\rentedMovies.g.vb
+C:\Users\Anda\Documents\Visual Studio 2010\Projects\VideoStore\VideoStore\obj\x86\Debug\rentMovie.g.vb
+C:\Users\Anda\Documents\Visual Studio 2010\Projects\VideoStore\VideoStore\obj\x86\Debug\salesGames.g.vb
+C:\Users\Anda\Documents\Visual Studio 2010\Projects\VideoStore\VideoStore\obj\x86\Debug\salesMovies.g.vb
+C:\Users\Anda\Documents\Visual Studio 2010\Projects\VideoStore\VideoStore\obj\x86\Debug\SearchGame.g.vb
+C:\Users\Anda\Documents\Visual Studio 2010\Projects\VideoStore\VideoStore\obj\x86\Debug\SearchMovie.g.vb
+C:\Users\Anda\Documents\Visual Studio 2010\Projects\VideoStore\VideoStore\obj\x86\Debug\sellMovie.g.vb
+C:\Users\Anda\Documents\Visual Studio 2010\Projects\VideoStore\VideoStore\obj\x86\Debug\TopRatedGames.g.vb
+C:\Users\Anda\Documents\Visual Studio 2010\Projects\VideoStore\VideoStore\obj\x86\Debug\TopRatedMovies.g.vb
+C:\Users\Anda\Documents\Visual Studio 2010\Projects\VideoStore\VideoStore\obj\x86\Debug\TopSoldGames.g.vb
+C:\Users\Anda\Documents\Visual Studio 2010\Projects\VideoStore\VideoStore\obj\x86\Debug\Application.g.vb
+C:\Users\Anda\Documents\Visual Studio 2010\Projects\VideoStore\VideoStore\obj\x86\Debug\VideoStore_MarkupCompile.cache
+C:\Users\Anda\Documents\Visual Studio 2010\Projects\VideoStore\VideoStore\obj\x86\Debug\VideoStore.g.resources
+C:\Users\Anda\Documents\Visual Studio 2010\Projects\VideoStore\VideoStore\obj\x86\Debug\VideoStore.Resources.resources
+C:\Users\Anda\Documents\Visual Studio 2010\Projects\VideoStore\VideoStore\obj\x86\Debug\VideoStore.vbproj.GenerateResource.Cache
+C:\Users\Anda\Desktop\Cambridge Computing Project\VideoStore\VideoStore\obj\x86\Debug\VideoStore.exe
+C:\Users\Anda\Desktop\Cambridge Computing Project\VideoStore\VideoStore\obj\x86\Debug\VideoStore.xml
+C:\Users\Anda\Desktop\Cambridge Computing Project\VideoStore\VideoStore\obj\x86\Debug\VideoStore.pdb
+C:\Users\Anda\Desktop\Cambridge Computing Project\VideoStore\VideoStore\bin\Debug\VideoStore.exe
+C:\Users\Anda\Desktop\Cambridge Computing Project\VideoStore\VideoStore\bin\Debug\VideoStore.pdb
+C:\Users\Anda\Desktop\Cambridge Computing Project\VideoStore\VideoStore\bin\Debug\VideoStore.xml
+C:\Users\Anda\Desktop\Cambridge Computing Project\VideoStore\VideoStore\bin\Debug\FirstFloor.ModernUI.xml
+C:\Users\Anda\Desktop\Cambridge Computing Project\VideoStore\VideoStore\obj\x86\Debug\VideoStore.vbprojResolveAssemblyReference.cache
+C:\Users\Anda\Desktop\Cambridge Computing Project\VideoStore\VideoStore\obj\x86\Debug\addCompatibility.baml
+C:\Users\Anda\Desktop\Cambridge Computing Project\VideoStore\VideoStore\obj\x86\Debug\addEmployee.baml
+C:\Users\Anda\Desktop\Cambridge Computing Project\VideoStore\VideoStore\obj\x86\Debug\addGame.baml
+C:\Users\Anda\Desktop\Cambridge Computing Project\VideoStore\VideoStore\obj\x86\Debug\addMember.baml
+C:\Users\Anda\Desktop\Cambridge Computing Project\VideoStore\VideoStore\obj\x86\Debug\addMovies.baml
+C:\Users\Anda\Desktop\Cambridge Computing Project\VideoStore\VideoStore\obj\x86\Debug\AdministratorLogin.baml
+C:\Users\Anda\Desktop\Cambridge Computing Project\VideoStore\VideoStore\obj\x86\Debug\EmployeeLogin.baml
+C:\Users\Anda\Desktop\Cambridge Computing Project\VideoStore\VideoStore\obj\x86\Debug\GuestLogin.baml
+C:\Users\Anda\Desktop\Cambridge Computing Project\VideoStore\VideoStore\obj\x86\Debug\listEmployee.baml
+C:\Users\Anda\Desktop\Cambridge Computing Project\VideoStore\VideoStore\obj\x86\Debug\listGames.baml
+C:\Users\Anda\Desktop\Cambridge Computing Project\VideoStore\VideoStore\obj\x86\Debug\listMember.baml
+C:\Users\Anda\Desktop\Cambridge Computing Project\VideoStore\VideoStore\obj\x86\Debug\listMovies.baml
+C:\Users\Anda\Desktop\Cambridge Computing Project\VideoStore\VideoStore\obj\x86\Debug\LoginWindow.baml
+C:\Users\Anda\Desktop\Cambridge Computing Project\VideoStore\VideoStore\obj\x86\Debug\MainWindow.baml
+C:\Users\Anda\Desktop\Cambridge Computing Project\VideoStore\VideoStore\obj\x86\Debug\manual.baml
+C:\Users\Anda\Desktop\Cambridge Computing Project\VideoStore\VideoStore\obj\x86\Debug\NewGames.baml
+C:\Users\Anda\Desktop\Cambridge Computing Project\VideoStore\VideoStore\obj\x86\Debug\NewMovies.baml
+C:\Users\Anda\Desktop\Cambridge Computing Project\VideoStore\VideoStore\obj\x86\Debug\rentedMovies.baml
+C:\Users\Anda\Desktop\Cambridge Computing Project\VideoStore\VideoStore\obj\x86\Debug\rentMovie.baml
+C:\Users\Anda\Desktop\Cambridge Computing Project\VideoStore\VideoStore\obj\x86\Debug\salesGames.baml
+C:\Users\Anda\Desktop\Cambridge Computing Project\VideoStore\VideoStore\obj\x86\Debug\salesMovies.baml
+C:\Users\Anda\Desktop\Cambridge Computing Project\VideoStore\VideoStore\obj\x86\Debug\SearchGame.baml
+C:\Users\Anda\Desktop\Cambridge Computing Project\VideoStore\VideoStore\obj\x86\Debug\SearchMovie.baml
+C:\Users\Anda\Desktop\Cambridge Computing Project\VideoStore\VideoStore\obj\x86\Debug\sellMovie.baml
+C:\Users\Anda\Desktop\Cambridge Computing Project\VideoStore\VideoStore\obj\x86\Debug\TopRatedGames.baml
+C:\Users\Anda\Desktop\Cambridge Computing Project\VideoStore\VideoStore\obj\x86\Debug\TopRatedMovies.baml
+C:\Users\Anda\Desktop\Cambridge Computing Project\VideoStore\VideoStore\obj\x86\Debug\TopSoldGames.baml
+C:\Users\Anda\Desktop\Cambridge Computing Project\VideoStore\VideoStore\obj\x86\Debug\Application.baml
+C:\Users\Anda\Desktop\Cambridge Computing Project\VideoStore\VideoStore\obj\x86\Debug\addCompatibility.g.vb
+C:\Users\Anda\Desktop\Cambridge Computing Project\VideoStore\VideoStore\obj\x86\Debug\addEmployee.g.vb
+C:\Users\Anda\Desktop\Cambridge Computing Project\VideoStore\VideoStore\obj\x86\Debug\addGame.g.vb
+C:\Users\Anda\Desktop\Cambridge Computing Project\VideoStore\VideoStore\obj\x86\Debug\addMember.g.vb
+C:\Users\Anda\Desktop\Cambridge Computing Project\VideoStore\VideoStore\obj\x86\Debug\addMovies.g.vb
+C:\Users\Anda\Desktop\Cambridge Computing Project\VideoStore\VideoStore\obj\x86\Debug\AdministratorLogin.g.vb
+C:\Users\Anda\Desktop\Cambridge Computing Project\VideoStore\VideoStore\obj\x86\Debug\EmployeeLogin.g.vb
+C:\Users\Anda\Desktop\Cambridge Computing Project\VideoStore\VideoStore\obj\x86\Debug\GuestLogin.g.vb
+C:\Users\Anda\Desktop\Cambridge Computing Project\VideoStore\VideoStore\obj\x86\Debug\listEmployee.g.vb
+C:\Users\Anda\Desktop\Cambridge Computing Project\VideoStore\VideoStore\obj\x86\Debug\listGames.g.vb
+C:\Users\Anda\Desktop\Cambridge Computing Project\VideoStore\VideoStore\obj\x86\Debug\listMember.g.vb
+C:\Users\Anda\Desktop\Cambridge Computing Project\VideoStore\VideoStore\obj\x86\Debug\listMovies.g.vb
+C:\Users\Anda\Desktop\Cambridge Computing Project\VideoStore\VideoStore\obj\x86\Debug\LoginWindow.g.vb
+C:\Users\Anda\Desktop\Cambridge Computing Project\VideoStore\VideoStore\obj\x86\Debug\MainWindow.g.vb
+C:\Users\Anda\Desktop\Cambridge Computing Project\VideoStore\VideoStore\obj\x86\Debug\manual.g.vb
+C:\Users\Anda\Desktop\Cambridge Computing Project\VideoStore\VideoStore\obj\x86\Debug\NewGames.g.vb
+C:\Users\Anda\Desktop\Cambridge Computing Project\VideoStore\VideoStore\obj\x86\Debug\NewMovies.g.vb
+C:\Users\Anda\Desktop\Cambridge Computing Project\VideoStore\VideoStore\obj\x86\Debug\rentedMovies.g.vb
+C:\Users\Anda\Desktop\Cambridge Computing Project\VideoStore\VideoStore\obj\x86\Debug\rentMovie.g.vb
+C:\Users\Anda\Desktop\Cambridge Computing Project\VideoStore\VideoStore\obj\x86\Debug\salesGames.g.vb
+C:\Users\Anda\Desktop\Cambridge Computing Project\VideoStore\VideoStore\obj\x86\Debug\salesMovies.g.vb
+C:\Users\Anda\Desktop\Cambridge Computing Project\VideoStore\VideoStore\obj\x86\Debug\SearchGame.g.vb
+C:\Users\Anda\Desktop\Cambridge Computing Project\VideoStore\VideoStore\obj\x86\Debug\SearchMovie.g.vb
+C:\Users\Anda\Desktop\Cambridge Computing Project\VideoStore\VideoStore\obj\x86\Debug\sellMovie.g.vb
+C:\Users\Anda\Desktop\Cambridge Computing Project\VideoStore\VideoStore\obj\x86\Debug\TopRatedGames.g.vb
+C:\Users\Anda\Desktop\Cambridge Computing Project\VideoStore\VideoStore\obj\x86\Debug\TopRatedMovies.g.vb
+C:\Users\Anda\Desktop\Cambridge Computing Project\VideoStore\VideoStore\obj\x86\Debug\TopSoldGames.g.vb
+C:\Users\Anda\Desktop\Cambridge Computing Project\VideoStore\VideoStore\obj\x86\Debug\Application.g.vb
+C:\Users\Anda\Desktop\Cambridge Computing Project\VideoStore\VideoStore\obj\x86\Debug\VideoStore_MarkupCompile.cache
+C:\Users\Anda\Desktop\Cambridge Computing Project\VideoStore\VideoStore\obj\x86\Debug\VideoStore.g.resources
+C:\Users\Anda\Desktop\Cambridge Computing Project\VideoStore\VideoStore\obj\x86\Debug\VideoStore.Resources.resources
+C:\Users\Anda\Desktop\Cambridge Computing Project\VideoStore\VideoStore\obj\x86\Debug\VideoStore.vbproj.GenerateResource.Cache
+C:\Users\Robert\Documents\Visual Studio 2012\Projects\VideoStore\VideoStore\obj\x86\Debug\filmSales.baml
+C:\Users\Robert\Documents\Visual Studio 2012\Projects\VideoStore\VideoStore\obj\x86\Debug\filmSales.g.vb
+C:\Users\Robert\Documents\Visual Studio 2012\Projects\VideoStore\VideoStore\obj\x86\Debug\gameSales.baml
+C:\Users\Robert\Documents\Visual Studio 2012\Projects\VideoStore\VideoStore\obj\x86\Debug\gameSales.g.vb
+C:\Users\Robert\Documents\Visual Studio 2012\Projects\VideoStore\VideoStore\obj\x86\Debug\sellGame.baml
+C:\Users\Robert\Documents\Visual Studio 2012\Projects\VideoStore\VideoStore\obj\x86\Debug\sellGame.g.vb
+C:\Users\Robert\Documents\Visual Studio 2012\Projects\VideoStore\VideoStore\obj\x86\Debug\emailForRents.baml
+C:\Users\Robert\Documents\Visual Studio 2012\Projects\VideoStore\VideoStore\obj\x86\Debug\emailForRents.g.vb
+C:\Users\robert\Documents\Visual Studio 2010\Projects\VideoStore\VideoStore\obj\x86\Debug\addCompatibility.baml
+C:\Users\robert\Documents\Visual Studio 2010\Projects\VideoStore\VideoStore\obj\x86\Debug\addEmployee.baml
+C:\Users\robert\Documents\Visual Studio 2010\Projects\VideoStore\VideoStore\obj\x86\Debug\addGame.baml
+C:\Users\robert\Documents\Visual Studio 2010\Projects\VideoStore\VideoStore\obj\x86\Debug\addMember.baml
+C:\Users\robert\Documents\Visual Studio 2010\Projects\VideoStore\VideoStore\obj\x86\Debug\addMovies.baml
+C:\Users\robert\Documents\Visual Studio 2010\Projects\VideoStore\VideoStore\obj\x86\Debug\emailForRents.baml
+C:\Users\robert\Documents\Visual Studio 2010\Projects\VideoStore\VideoStore\obj\x86\Debug\gameSales.baml
+C:\Users\robert\Documents\Visual Studio 2010\Projects\VideoStore\VideoStore\obj\x86\Debug\listEmployee.baml
+C:\Users\robert\Documents\Visual Studio 2010\Projects\VideoStore\VideoStore\obj\x86\Debug\listGames.baml
+C:\Users\robert\Documents\Visual Studio 2010\Projects\VideoStore\VideoStore\obj\x86\Debug\listMember.baml
+C:\Users\robert\Documents\Visual Studio 2010\Projects\VideoStore\VideoStore\obj\x86\Debug\listMovies.baml
+C:\Users\robert\Documents\Visual Studio 2010\Projects\VideoStore\VideoStore\obj\x86\Debug\manual.baml
+C:\Users\robert\Documents\Visual Studio 2010\Projects\VideoStore\VideoStore\obj\x86\Debug\filmSales.baml
+C:\Users\robert\Documents\Visual Studio 2010\Projects\VideoStore\VideoStore\obj\x86\Debug\NewGames.baml
+C:\Users\robert\Documents\Visual Studio 2010\Projects\VideoStore\VideoStore\obj\x86\Debug\NewMovies.baml
+C:\Users\robert\Documents\Visual Studio 2010\Projects\VideoStore\VideoStore\obj\x86\Debug\rentedMovies.baml
+C:\Users\robert\Documents\Visual Studio 2010\Projects\VideoStore\VideoStore\obj\x86\Debug\rentMovie.baml
+C:\Users\robert\Documents\Visual Studio 2010\Projects\VideoStore\VideoStore\obj\x86\Debug\salesGames.baml
+C:\Users\robert\Documents\Visual Studio 2010\Projects\VideoStore\VideoStore\obj\x86\Debug\salesMovies.baml
+C:\Users\robert\Documents\Visual Studio 2010\Projects\VideoStore\VideoStore\obj\x86\Debug\SearchGame.baml
+C:\Users\robert\Documents\Visual Studio 2010\Projects\VideoStore\VideoStore\obj\x86\Debug\SearchMovie.baml
+C:\Users\robert\Documents\Visual Studio 2010\Projects\VideoStore\VideoStore\obj\x86\Debug\sellGame.baml
+C:\Users\robert\Documents\Visual Studio 2010\Projects\VideoStore\VideoStore\obj\x86\Debug\sellMovie.baml
+C:\Users\robert\Documents\Visual Studio 2010\Projects\VideoStore\VideoStore\obj\x86\Debug\TopRatedGames.baml
+C:\Users\robert\Documents\Visual Studio 2010\Projects\VideoStore\VideoStore\obj\x86\Debug\TopRatedMovies.baml
+C:\Users\robert\Documents\Visual Studio 2010\Projects\VideoStore\VideoStore\obj\x86\Debug\TopSoldGames.baml
+C:\Users\robert\Documents\Visual Studio 2010\Projects\VideoStore\VideoStore\obj\x86\Debug\addCompatibility.g.vb
+C:\Users\robert\Documents\Visual Studio 2010\Projects\VideoStore\VideoStore\obj\x86\Debug\addEmployee.g.vb
+C:\Users\robert\Documents\Visual Studio 2010\Projects\VideoStore\VideoStore\obj\x86\Debug\addGame.g.vb
+C:\Users\robert\Documents\Visual Studio 2010\Projects\VideoStore\VideoStore\obj\x86\Debug\addMember.g.vb
+C:\Users\robert\Documents\Visual Studio 2010\Projects\VideoStore\VideoStore\obj\x86\Debug\addMovies.g.vb
+C:\Users\robert\Documents\Visual Studio 2010\Projects\VideoStore\VideoStore\obj\x86\Debug\emailForRents.g.vb
+C:\Users\robert\Documents\Visual Studio 2010\Projects\VideoStore\VideoStore\obj\x86\Debug\gameSales.g.vb
+C:\Users\robert\Documents\Visual Studio 2010\Projects\VideoStore\VideoStore\obj\x86\Debug\listEmployee.g.vb
+C:\Users\robert\Documents\Visual Studio 2010\Projects\VideoStore\VideoStore\obj\x86\Debug\listGames.g.vb
+C:\Users\robert\Documents\Visual Studio 2010\Projects\VideoStore\VideoStore\obj\x86\Debug\listMember.g.vb
+C:\Users\robert\Documents\Visual Studio 2010\Projects\VideoStore\VideoStore\obj\x86\Debug\listMovies.g.vb
+C:\Users\robert\Documents\Visual Studio 2010\Projects\VideoStore\VideoStore\obj\x86\Debug\manual.g.vb
+C:\Users\robert\Documents\Visual Studio 2010\Projects\VideoStore\VideoStore\obj\x86\Debug\filmSales.g.vb
+C:\Users\robert\Documents\Visual Studio 2010\Projects\VideoStore\VideoStore\obj\x86\Debug\NewGames.g.vb
+C:\Users\robert\Documents\Visual Studio 2010\Projects\VideoStore\VideoStore\obj\x86\Debug\NewMovies.g.vb
+C:\Users\robert\Documents\Visual Studio 2010\Projects\VideoStore\VideoStore\obj\x86\Debug\rentedMovies.g.vb
+C:\Users\robert\Documents\Visual Studio 2010\Projects\VideoStore\VideoStore\obj\x86\Debug\rentMovie.g.vb
+C:\Users\robert\Documents\Visual Studio 2010\Projects\VideoStore\VideoStore\obj\x86\Debug\salesGames.g.vb
+C:\Users\robert\Documents\Visual Studio 2010\Projects\VideoStore\VideoStore\obj\x86\Debug\salesMovies.g.vb
+C:\Users\robert\Documents\Visual Studio 2010\Projects\VideoStore\VideoStore\obj\x86\Debug\SearchGame.g.vb
+C:\Users\robert\Documents\Visual Studio 2010\Projects\VideoStore\VideoStore\obj\x86\Debug\SearchMovie.g.vb
+C:\Users\robert\Documents\Visual Studio 2010\Projects\VideoStore\VideoStore\obj\x86\Debug\sellGame.g.vb
+C:\Users\robert\Documents\Visual Studio 2010\Projects\VideoStore\VideoStore\obj\x86\Debug\sellMovie.g.vb
+C:\Users\robert\Documents\Visual Studio 2010\Projects\VideoStore\VideoStore\obj\x86\Debug\TopRatedGames.g.vb
+C:\Users\robert\Documents\Visual Studio 2010\Projects\VideoStore\VideoStore\obj\x86\Debug\TopRatedMovies.g.vb
+C:\Users\robert\Documents\Visual Studio 2010\Projects\VideoStore\VideoStore\obj\x86\Debug\TopSoldGames.g.vb
+C:\Users\robert\Documents\Visual Studio 2010\Projects\VideoStore\VideoStore\bin\Debug\itextsharp.dll
+C:\Users\robert\Documents\Visual Studio 2010\Projects\VideoStore\VideoStore\bin\Debug\itextsharp.pdfa.dll
+C:\Users\robert\Documents\Visual Studio 2010\Projects\VideoStore\VideoStore\bin\Debug\itextsharp.xtra.dll
+C:\Users\robert\Documents\Visual Studio 2010\Projects\VideoStore\VideoStore\bin\Debug\itextsharp.xml
+C:\Users\robert\Documents\Visual Studio 2010\Projects\VideoStore\VideoStore\obj\x86\Debug\TopSoldMovies.baml
+C:\Users\robert\Documents\Visual Studio 2010\Projects\VideoStore\VideoStore\obj\x86\Debug\TopSoldMovies.g.vb
+C:\Users\robert\Documents\Visual Studio 2010\Projects\VideoStore\VideoStore\obj\x86\Debug\adminAccount.baml
+C:\Users\robert\Documents\Visual Studio 2010\Projects\VideoStore\VideoStore\obj\x86\Debug\adminAccount.g.vb
+C:\Users\robert\Documents\Visual Studio 2010\Projects\VideoStore\VideoStore\obj\x86\Debug\myAccount.baml
+C:\Users\robert\Documents\Visual Studio 2010\Projects\VideoStore\VideoStore\obj\x86\Debug\myAccount.g.vb
+C:\Users\Robert\Documents\Visual Studio 2012\Projects\VideoStore\VideoStore\bin\Debug\itextsharp.dll
+C:\Users\Robert\Documents\Visual Studio 2012\Projects\VideoStore\VideoStore\bin\Debug\itextsharp.pdfa.dll
+C:\Users\Robert\Documents\Visual Studio 2012\Projects\VideoStore\VideoStore\bin\Debug\itextsharp.xtra.dll
+C:\Users\Robert\Documents\Visual Studio 2012\Projects\VideoStore\VideoStore\bin\Debug\FirstFloor.ModernUI.xml
+C:\Users\Robert\Documents\Visual Studio 2012\Projects\VideoStore\VideoStore\bin\Debug\itextsharp.xml
+C:\Users\Robert\Documents\Visual Studio 2012\Projects\VideoStore\VideoStore\obj\x86\Debug\adminAccount.baml
+C:\Users\Robert\Documents\Visual Studio 2012\Projects\VideoStore\VideoStore\obj\x86\Debug\myAccount.baml
+C:\Users\Robert\Documents\Visual Studio 2012\Projects\VideoStore\VideoStore\obj\x86\Debug\TopSoldMovies.baml
+C:\Users\Robert\Documents\Visual Studio 2012\Projects\VideoStore\VideoStore\obj\x86\Debug\adminAccount.g.vb
+C:\Users\Robert\Documents\Visual Studio 2012\Projects\VideoStore\VideoStore\obj\x86\Debug\myAccount.g.vb
+C:\Users\Robert\Documents\Visual Studio 2012\Projects\VideoStore\VideoStore\obj\x86\Debug\TopSoldMovies.g.vb
+C:\Users\Robert\Documents\Visual Studio 2012\Projects\VideoStore\VideoStore\obj\x86\Debug\logOut.baml
+C:\Users\Robert\Documents\Visual Studio 2012\Projects\VideoStore\VideoStore\obj\x86\Debug\logOut.g.vb
+C:\Users\robert\Documents\Visual Studio 2012\Projects\VideoStore\VideoStore\obj\x86\Debug\AccountingPanel.baml
+C:\Users\robert\Documents\Visual Studio 2012\Projects\VideoStore\VideoStore\obj\x86\Debug\AccountingPanel.g.vb
+C:\Users\Anda\Desktop\Cambridge Computing Project\VideoStore\VideoStore\bin\Debug\itextsharp.dll
+C:\Users\Anda\Desktop\Cambridge Computing Project\VideoStore\VideoStore\bin\Debug\itextsharp.pdfa.dll
+C:\Users\Anda\Desktop\Cambridge Computing Project\VideoStore\VideoStore\bin\Debug\itextsharp.xtra.dll
+C:\Users\Anda\Desktop\Cambridge Computing Project\VideoStore\VideoStore\bin\Debug\itextsharp.xml
+C:\Users\Anda\Desktop\Cambridge Computing Project\VideoStore\VideoStore\obj\x86\Debug\AccountingPanel.baml
+C:\Users\Anda\Desktop\Cambridge Computing Project\VideoStore\VideoStore\obj\x86\Debug\adminAccount.baml
+C:\Users\Anda\Desktop\Cambridge Computing Project\VideoStore\VideoStore\obj\x86\Debug\emailForRents.baml
+C:\Users\Anda\Desktop\Cambridge Computing Project\VideoStore\VideoStore\obj\x86\Debug\gameSales.baml
+C:\Users\Anda\Desktop\Cambridge Computing Project\VideoStore\VideoStore\obj\x86\Debug\logOut.baml
+C:\Users\Anda\Desktop\Cambridge Computing Project\VideoStore\VideoStore\obj\x86\Debug\filmSales.baml
+C:\Users\Anda\Desktop\Cambridge Computing Project\VideoStore\VideoStore\obj\x86\Debug\myAccount.baml
+C:\Users\Anda\Desktop\Cambridge Computing Project\VideoStore\VideoStore\obj\x86\Debug\sellGame.baml
+C:\Users\Anda\Desktop\Cambridge Computing Project\VideoStore\VideoStore\obj\x86\Debug\TopSoldMovies.baml
+C:\Users\Anda\Desktop\Cambridge Computing Project\VideoStore\VideoStore\obj\x86\Debug\AccountingPanel.g.vb
+C:\Users\Anda\Desktop\Cambridge Computing Project\VideoStore\VideoStore\obj\x86\Debug\adminAccount.g.vb
+C:\Users\Anda\Desktop\Cambridge Computing Project\VideoStore\VideoStore\obj\x86\Debug\emailForRents.g.vb
+C:\Users\Anda\Desktop\Cambridge Computing Project\VideoStore\VideoStore\obj\x86\Debug\gameSales.g.vb
+C:\Users\Anda\Desktop\Cambridge Computing Project\VideoStore\VideoStore\obj\x86\Debug\logOut.g.vb
+C:\Users\Anda\Desktop\Cambridge Computing Project\VideoStore\VideoStore\obj\x86\Debug\filmSales.g.vb
+C:\Users\Anda\Desktop\Cambridge Computing Project\VideoStore\VideoStore\obj\x86\Debug\myAccount.g.vb
+C:\Users\Anda\Desktop\Cambridge Computing Project\VideoStore\VideoStore\obj\x86\Debug\sellGame.g.vb
+C:\Users\Anda\Desktop\Cambridge Computing Project\VideoStore\VideoStore\obj\x86\Debug\TopSoldMovies.g.vb
+C:\Users\robertvrenozi\Documents\Visual Studio 2012\Projects\VideoStore\VideoStore\obj\x86\Debug\VideoStore.exe
+C:\Users\robertvrenozi\Documents\Visual Studio 2012\Projects\VideoStore\VideoStore\obj\x86\Debug\VideoStore.xml
+C:\Users\robertvrenozi\Documents\Visual Studio 2012\Projects\VideoStore\VideoStore\obj\x86\Debug\VideoStore.pdb
+C:\Users\robertvrenozi\Documents\Visual Studio 2012\Projects\VideoStore\VideoStore\bin\Debug\VideoStore.exe
+C:\Users\robertvrenozi\Documents\Visual Studio 2012\Projects\VideoStore\VideoStore\bin\Debug\VideoStore.pdb
+C:\Users\robertvrenozi\Documents\Visual Studio 2012\Projects\VideoStore\VideoStore\bin\Debug\VideoStore.xml
+C:\Users\robertvrenozi\Documents\Visual Studio 2012\Projects\VideoStore\VideoStore\bin\Debug\itextsharp.dll
+C:\Users\robertvrenozi\Documents\Visual Studio 2012\Projects\VideoStore\VideoStore\bin\Debug\itextsharp.pdfa.dll
+C:\Users\robertvrenozi\Documents\Visual Studio 2012\Projects\VideoStore\VideoStore\bin\Debug\itextsharp.xtra.dll
+C:\Users\robertvrenozi\Documents\Visual Studio 2012\Projects\VideoStore\VideoStore\bin\Debug\FirstFloor.ModernUI.xml
+C:\Users\robertvrenozi\Documents\Visual Studio 2012\Projects\VideoStore\VideoStore\bin\Debug\itextsharp.xml
+C:\Users\robertvrenozi\Documents\Visual Studio 2012\Projects\VideoStore\VideoStore\obj\x86\Debug\VideoStore.vbprojResolveAssemblyReference.cache
+C:\Users\robertvrenozi\Documents\Visual Studio 2012\Projects\VideoStore\VideoStore\obj\x86\Debug\AccountingPanel.baml
+C:\Users\robertvrenozi\Documents\Visual Studio 2012\Projects\VideoStore\VideoStore\obj\x86\Debug\addCompatibility.baml
+C:\Users\robertvrenozi\Documents\Visual Studio 2012\Projects\VideoStore\VideoStore\obj\x86\Debug\addEmployee.baml
+C:\Users\robertvrenozi\Documents\Visual Studio 2012\Projects\VideoStore\VideoStore\obj\x86\Debug\addGame.baml
+C:\Users\robertvrenozi\Documents\Visual Studio 2012\Projects\VideoStore\VideoStore\obj\x86\Debug\addMember.baml
+C:\Users\robertvrenozi\Documents\Visual Studio 2012\Projects\VideoStore\VideoStore\obj\x86\Debug\addMovies.baml
+C:\Users\robertvrenozi\Documents\Visual Studio 2012\Projects\VideoStore\VideoStore\obj\x86\Debug\adminAccount.baml
+C:\Users\robertvrenozi\Documents\Visual Studio 2012\Projects\VideoStore\VideoStore\obj\x86\Debug\AdministratorLogin.baml
+C:\Users\robertvrenozi\Documents\Visual Studio 2012\Projects\VideoStore\VideoStore\obj\x86\Debug\emailForRents.baml
+C:\Users\robertvrenozi\Documents\Visual Studio 2012\Projects\VideoStore\VideoStore\obj\x86\Debug\EmployeeLogin.baml
+C:\Users\robertvrenozi\Documents\Visual Studio 2012\Projects\VideoStore\VideoStore\obj\x86\Debug\gameSales.baml
+C:\Users\robertvrenozi\Documents\Visual Studio 2012\Projects\VideoStore\VideoStore\obj\x86\Debug\GuestLogin.baml
+C:\Users\robertvrenozi\Documents\Visual Studio 2012\Projects\VideoStore\VideoStore\obj\x86\Debug\listEmployee.baml
+C:\Users\robertvrenozi\Documents\Visual Studio 2012\Projects\VideoStore\VideoStore\obj\x86\Debug\listGames.baml
+C:\Users\robertvrenozi\Documents\Visual Studio 2012\Projects\VideoStore\VideoStore\obj\x86\Debug\listMember.baml
+C:\Users\robertvrenozi\Documents\Visual Studio 2012\Projects\VideoStore\VideoStore\obj\x86\Debug\listMovies.baml
+C:\Users\robertvrenozi\Documents\Visual Studio 2012\Projects\VideoStore\VideoStore\obj\x86\Debug\LoginWindow.baml
+C:\Users\robertvrenozi\Documents\Visual Studio 2012\Projects\VideoStore\VideoStore\obj\x86\Debug\logOut.baml
+C:\Users\robertvrenozi\Documents\Visual Studio 2012\Projects\VideoStore\VideoStore\obj\x86\Debug\MainWindow.baml
+C:\Users\robertvrenozi\Documents\Visual Studio 2012\Projects\VideoStore\VideoStore\obj\x86\Debug\manual.baml
+C:\Users\robertvrenozi\Documents\Visual Studio 2012\Projects\VideoStore\VideoStore\obj\x86\Debug\filmSales.baml
+C:\Users\robertvrenozi\Documents\Visual Studio 2012\Projects\VideoStore\VideoStore\obj\x86\Debug\myAccount.baml
+C:\Users\robertvrenozi\Documents\Visual Studio 2012\Projects\VideoStore\VideoStore\obj\x86\Debug\NewGames.baml
+C:\Users\robertvrenozi\Documents\Visual Studio 2012\Projects\VideoStore\VideoStore\obj\x86\Debug\NewMovies.baml
+C:\Users\robertvrenozi\Documents\Visual Studio 2012\Projects\VideoStore\VideoStore\obj\x86\Debug\rentedMovies.baml
+C:\Users\robertvrenozi\Documents\Visual Studio 2012\Projects\VideoStore\VideoStore\obj\x86\Debug\rentMovie.baml
+C:\Users\robertvrenozi\Documents\Visual Studio 2012\Projects\VideoStore\VideoStore\obj\x86\Debug\salesGames.baml
+C:\Users\robertvrenozi\Documents\Visual Studio 2012\Projects\VideoStore\VideoStore\obj\x86\Debug\salesMovies.baml
+C:\Users\robertvrenozi\Documents\Visual Studio 2012\Projects\VideoStore\VideoStore\obj\x86\Debug\SearchGame.baml
+C:\Users\robertvrenozi\Documents\Visual Studio 2012\Projects\VideoStore\VideoStore\obj\x86\Debug\SearchMovie.baml
+C:\Users\robertvrenozi\Documents\Visual Studio 2012\Projects\VideoStore\VideoStore\obj\x86\Debug\sellGame.baml
+C:\Users\robertvrenozi\Documents\Visual Studio 2012\Projects\VideoStore\VideoStore\obj\x86\Debug\sellMovie.baml
+C:\Users\robertvrenozi\Documents\Visual Studio 2012\Projects\VideoStore\VideoStore\obj\x86\Debug\TopRatedGames.baml
+C:\Users\robertvrenozi\Documents\Visual Studio 2012\Projects\VideoStore\VideoStore\obj\x86\Debug\TopRatedMovies.baml
+C:\Users\robertvrenozi\Documents\Visual Studio 2012\Projects\VideoStore\VideoStore\obj\x86\Debug\TopSoldGames.baml
+C:\Users\robertvrenozi\Documents\Visual Studio 2012\Projects\VideoStore\VideoStore\obj\x86\Debug\TopSoldMovies.baml
+C:\Users\robertvrenozi\Documents\Visual Studio 2012\Projects\VideoStore\VideoStore\obj\x86\Debug\Application.baml
+C:\Users\robertvrenozi\Documents\Visual Studio 2012\Projects\VideoStore\VideoStore\obj\x86\Debug\AccountingPanel.g.vb
+C:\Users\robertvrenozi\Documents\Visual Studio 2012\Projects\VideoStore\VideoStore\obj\x86\Debug\addCompatibility.g.vb
+C:\Users\robertvrenozi\Documents\Visual Studio 2012\Projects\VideoStore\VideoStore\obj\x86\Debug\addEmployee.g.vb
+C:\Users\robertvrenozi\Documents\Visual Studio 2012\Projects\VideoStore\VideoStore\obj\x86\Debug\addGame.g.vb
+C:\Users\robertvrenozi\Documents\Visual Studio 2012\Projects\VideoStore\VideoStore\obj\x86\Debug\addMember.g.vb
+C:\Users\robertvrenozi\Documents\Visual Studio 2012\Projects\VideoStore\VideoStore\obj\x86\Debug\addMovies.g.vb
+C:\Users\robertvrenozi\Documents\Visual Studio 2012\Projects\VideoStore\VideoStore\obj\x86\Debug\adminAccount.g.vb
+C:\Users\robertvrenozi\Documents\Visual Studio 2012\Projects\VideoStore\VideoStore\obj\x86\Debug\AdministratorLogin.g.vb
+C:\Users\robertvrenozi\Documents\Visual Studio 2012\Projects\VideoStore\VideoStore\obj\x86\Debug\emailForRents.g.vb
+C:\Users\robertvrenozi\Documents\Visual Studio 2012\Projects\VideoStore\VideoStore\obj\x86\Debug\EmployeeLogin.g.vb
+C:\Users\robertvrenozi\Documents\Visual Studio 2012\Projects\VideoStore\VideoStore\obj\x86\Debug\gameSales.g.vb
+C:\Users\robertvrenozi\Documents\Visual Studio 2012\Projects\VideoStore\VideoStore\obj\x86\Debug\GuestLogin.g.vb
+C:\Users\robertvrenozi\Documents\Visual Studio 2012\Projects\VideoStore\VideoStore\obj\x86\Debug\listEmployee.g.vb
+C:\Users\robertvrenozi\Documents\Visual Studio 2012\Projects\VideoStore\VideoStore\obj\x86\Debug\listGames.g.vb
+C:\Users\robertvrenozi\Documents\Visual Studio 2012\Projects\VideoStore\VideoStore\obj\x86\Debug\listMember.g.vb
+C:\Users\robertvrenozi\Documents\Visual Studio 2012\Projects\VideoStore\VideoStore\obj\x86\Debug\listMovies.g.vb
+C:\Users\robertvrenozi\Documents\Visual Studio 2012\Projects\VideoStore\VideoStore\obj\x86\Debug\LoginWindow.g.vb
+C:\Users\robertvrenozi\Documents\Visual Studio 2012\Projects\VideoStore\VideoStore\obj\x86\Debug\logOut.g.vb
+C:\Users\robertvrenozi\Documents\Visual Studio 2012\Projects\VideoStore\VideoStore\obj\x86\Debug\MainWindow.g.vb
+C:\Users\robertvrenozi\Documents\Visual Studio 2012\Projects\VideoStore\VideoStore\obj\x86\Debug\manual.g.vb
+C:\Users\robertvrenozi\Documents\Visual Studio 2012\Projects\VideoStore\VideoStore\obj\x86\Debug\filmSales.g.vb
+C:\Users\robertvrenozi\Documents\Visual Studio 2012\Projects\VideoStore\VideoStore\obj\x86\Debug\myAccount.g.vb
+C:\Users\robertvrenozi\Documents\Visual Studio 2012\Projects\VideoStore\VideoStore\obj\x86\Debug\NewGames.g.vb
+C:\Users\robertvrenozi\Documents\Visual Studio 2012\Projects\VideoStore\VideoStore\obj\x86\Debug\NewMovies.g.vb
+C:\Users\robertvrenozi\Documents\Visual Studio 2012\Projects\VideoStore\VideoStore\obj\x86\Debug\rentedMovies.g.vb
+C:\Users\robertvrenozi\Documents\Visual Studio 2012\Projects\VideoStore\VideoStore\obj\x86\Debug\rentMovie.g.vb
+C:\Users\robertvrenozi\Documents\Visual Studio 2012\Projects\VideoStore\VideoStore\obj\x86\Debug\salesGames.g.vb
+C:\Users\robertvrenozi\Documents\Visual Studio 2012\Projects\VideoStore\VideoStore\obj\x86\Debug\salesMovies.g.vb
+C:\Users\robertvrenozi\Documents\Visual Studio 2012\Projects\VideoStore\VideoStore\obj\x86\Debug\SearchGame.g.vb
+C:\Users\robertvrenozi\Documents\Visual Studio 2012\Projects\VideoStore\VideoStore\obj\x86\Debug\SearchMovie.g.vb
+C:\Users\robertvrenozi\Documents\Visual Studio 2012\Projects\VideoStore\VideoStore\obj\x86\Debug\sellGame.g.vb
+C:\Users\robertvrenozi\Documents\Visual Studio 2012\Projects\VideoStore\VideoStore\obj\x86\Debug\sellMovie.g.vb
+C:\Users\robertvrenozi\Documents\Visual Studio 2012\Projects\VideoStore\VideoStore\obj\x86\Debug\TopRatedGames.g.vb
+C:\Users\robertvrenozi\Documents\Visual Studio 2012\Projects\VideoStore\VideoStore\obj\x86\Debug\TopRatedMovies.g.vb
+C:\Users\robertvrenozi\Documents\Visual Studio 2012\Projects\VideoStore\VideoStore\obj\x86\Debug\TopSoldGames.g.vb
+C:\Users\robertvrenozi\Documents\Visual Studio 2012\Projects\VideoStore\VideoStore\obj\x86\Debug\TopSoldMovies.g.vb
+C:\Users\robertvrenozi\Documents\Visual Studio 2012\Projects\VideoStore\VideoStore\obj\x86\Debug\Application.g.vb
+C:\Users\robertvrenozi\Documents\Visual Studio 2012\Projects\VideoStore\VideoStore\obj\x86\Debug\VideoStore_MarkupCompile.cache
+C:\Users\robertvrenozi\Documents\Visual Studio 2012\Projects\VideoStore\VideoStore\obj\x86\Debug\VideoStore.g.resources
+C:\Users\robertvrenozi\Documents\Visual Studio 2012\Projects\VideoStore\VideoStore\obj\x86\Debug\VideoStore.Resources.resources
+C:\Users\robertvrenozi\Documents\Visual Studio 2012\Projects\VideoStore\VideoStore\obj\x86\Debug\VideoStore.vbproj.GenerateResource.Cache

@@ -1,0 +1,31 @@
+﻿<Page x:Class="addEmployee"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      mc:Ignorable="d" 
+      d:DesignHeight="400" d:DesignWidth="700"
+      Title="addEmployee">
+    <Grid Name="Grid1">
+        <Label Content="First name:" Height="24" HorizontalAlignment="Left" Margin="23,26,0,0" Name="Label1" VerticalAlignment="Top" Width="74" />
+        <TextBox Height="23" HorizontalAlignment="Left" Margin="123,26,0,0" Name="txtFname" VerticalAlignment="Top" Width="200" />
+        <Label Content="Last name:" Height="28" HorizontalAlignment="Left" Margin="23,76,0,0" Name="Label2" VerticalAlignment="Top" />
+        <Label Content="Gender:" Height="28" HorizontalAlignment="Left" Margin="23,126,0,0" Name="Label3" VerticalAlignment="Top" />
+        <Label Content="Age(Numeric):" Height="28" HorizontalAlignment="Left" Margin="23,176,0,0" Name="Label4" VerticalAlignment="Top" />
+        <Label Content="Date of employment:" Height="28" HorizontalAlignment="Left" Margin="358,26,0,0" Name="Label5" VerticalAlignment="Top" />
+        <Label Content="Salary(Double):" Height="28" HorizontalAlignment="Left" Margin="358,76,0,0" Name="Label6" VerticalAlignment="Top" />
+        <Label Content="Username:" Height="28" HorizontalAlignment="Left" Margin="358,126,0,0" Name="Label7" VerticalAlignment="Top" />
+        <Label Content="Password:" Height="28" HorizontalAlignment="Left" Margin="358,176,0,0" Name="Label8" VerticalAlignment="Top" />
+        <TextBox Height="23" HorizontalAlignment="Left" Margin="123,76,0,0" Name="txtLname" VerticalAlignment="Top" Width="200" />
+        <TextBox Height="23" HorizontalAlignment="Left" Margin="123,176,0,0" Name="txtAge" VerticalAlignment="Top" Width="200" />
+        <TextBox Height="23" HorizontalAlignment="Left" Margin="488,76,0,0" Name="txtSalary" VerticalAlignment="Top" Width="200" />
+        <DatePicker Height="25" HorizontalAlignment="Left" Margin="488,26,0,0" Name="dtpEmployment" VerticalAlignment="Top" Width="200" />
+        <TextBox Height="23" HorizontalAlignment="Left" Margin="488,126,0,0" Name="txtUsername" VerticalAlignment="Top" Width="200" />
+        <RadioButton Content="Male" Height="18" HorizontalAlignment="Left" Margin="123,129,0,0" Name="rdbMale" VerticalAlignment="Top" IsChecked="True" />
+        <RadioButton Content="Female" Height="18" HorizontalAlignment="Left" Margin="237,129,0,0" Name="rdbFemale" VerticalAlignment="Top" />
+        <Button Content="Add Employee" Height="31" HorizontalAlignment="Left" Margin="303,245,0,0" Name="btnAddEmployee" VerticalAlignment="Top" Width="182" />
+        <TextBox Height="23" HorizontalAlignment="Left" Margin="488,176,0,0" Name="txtPass" VerticalAlignment="Top" Width="200" />
+        <Label Height="28" HorizontalAlignment="Left" Margin="488,360,0,0" Name="lblError" VerticalAlignment="Top" Width="200" Foreground="#FFFA0000" />
+        <Label Height="28" HorizontalAlignment="Left" Margin="488,360,0,0" Name="lblSuccess" VerticalAlignment="Top" Width="200" Foreground="Lime" />
+    </Grid>
+</Page>

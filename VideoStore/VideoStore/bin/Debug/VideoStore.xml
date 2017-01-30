@@ -1,0 +1,350 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+VideoStore
+</name>
+</assembly>
+<members>
+<member name="M:VideoStore.AdministratorLogin.InitializeComponent">
+	<summary>
+InitializeComponent
+</summary>
+</member><member name="T:VideoStore.AdministratorLogin">
+	<summary>
+AdministratorLogin
+</summary>
+</member><member name="M:VideoStore.sellGame.InitializeComponent">
+	<summary>
+InitializeComponent
+</summary>
+</member><member name="T:VideoStore.sellGame">
+	<summary>
+sellGame
+</summary>
+</member><member name="M:VideoStore.listMember.InitializeComponent">
+	<summary>
+InitializeComponent
+</summary>
+</member><member name="T:VideoStore.listMember">
+	<summary>
+listMember
+</summary>
+</member><member name="M:VideoStore.MySales.InitializeComponent">
+	<summary>
+InitializeComponent
+</summary>
+</member><member name="T:VideoStore.MySales">
+	<summary>
+MySales
+</summary>
+</member><member name="M:VideoStore.TopSoldGames.InitializeComponent">
+	<summary>
+InitializeComponent
+</summary>
+</member><member name="T:VideoStore.TopSoldGames">
+	<summary>
+TopSoldGames
+</summary>
+</member><member name="M:VideoStore.AccountingPanel.InitializeComponent">
+	<summary>
+InitializeComponent
+</summary>
+</member><member name="T:VideoStore.AccountingPanel">
+	<summary>
+AccountingPanel
+</summary>
+</member><member name="M:VideoStore.emailForRents.InitializeComponent">
+	<summary>
+InitializeComponent
+</summary>
+</member><member name="T:VideoStore.emailForRents">
+	<summary>
+emailForRents
+</summary>
+</member><member name="M:VideoStore.Application.InitializeComponent">
+	<summary>
+InitializeComponent
+</summary>
+</member><member name="M:VideoStore.Application.Main">
+	<summary>
+Application Entry Point.
+</summary>
+</member><member name="T:VideoStore.Application">
+	<summary>
+Application
+</summary>
+</member><member name="M:VideoStore.addGame.InitializeComponent">
+	<summary>
+InitializeComponent
+</summary>
+</member><member name="T:VideoStore.addGame">
+	<summary>
+addGame
+</summary>
+</member><member name="M:VideoStore.listGames.InitializeComponent">
+	<summary>
+InitializeComponent
+</summary>
+</member><member name="T:VideoStore.listGames">
+	<summary>
+listGames
+</summary>
+</member><member name="M:VideoStore.salesMovies.InitializeComponent">
+	<summary>
+InitializeComponent
+</summary>
+</member><member name="T:VideoStore.salesMovies">
+	<summary>
+salesMovies
+</summary>
+</member><member name="M:VideoStore.addMember.InitializeComponent">
+	<summary>
+InitializeComponent
+</summary>
+</member><member name="T:VideoStore.addMember">
+	<summary>
+addMember
+</summary>
+</member><member name="M:VideoStore.adminAccount.InitializeComponent">
+	<summary>
+InitializeComponent
+</summary>
+</member><member name="T:VideoStore.adminAccount">
+	<summary>
+adminAccount
+</summary>
+</member><member name="M:VideoStore.MuiTest.LoginWindow.InitializeComponent">
+	<summary>
+InitializeComponent
+</summary>
+</member><member name="T:VideoStore.MuiTest.LoginWindow">
+	<summary>
+LoginWindow
+</summary>
+</member><member name="M:VideoStore.myAccount.InitializeComponent">
+	<summary>
+InitializeComponent
+</summary>
+</member><member name="T:VideoStore.myAccount">
+	<summary>
+myAccount
+</summary>
+</member><member name="M:VideoStore.NewGames.InitializeComponent">
+	<summary>
+InitializeComponent
+</summary>
+</member><member name="T:VideoStore.NewGames">
+	<summary>
+NewGames
+</summary>
+</member><member name="M:VideoStore.SearchGame.InitializeComponent">
+	<summary>
+InitializeComponent
+</summary>
+</member><member name="T:VideoStore.SearchGame">
+	<summary>
+SearchGame
+</summary>
+</member><member name="M:VideoStore.TopRatedMovies.InitializeComponent">
+	<summary>
+InitializeComponent
+</summary>
+</member><member name="T:VideoStore.TopRatedMovies">
+	<summary>
+TopRatedMovies
+</summary>
+</member><member name="M:VideoStore.AddCompatibility.InitializeComponent">
+	<summary>
+InitializeComponent
+</summary>
+</member><member name="T:VideoStore.AddCompatibility">
+	<summary>
+AddCompatibility
+</summary>
+</member><member name="M:VideoStore.GuestLogin.InitializeComponent">
+	<summary>
+InitializeComponent
+</summary>
+</member><member name="T:VideoStore.GuestLogin">
+	<summary>
+GuestLogin
+</summary>
+</member><member name="M:VideoStore.MuiTest.MainWindow.InitializeComponent">
+	<summary>
+InitializeComponent
+</summary>
+</member><member name="T:VideoStore.MuiTest.MainWindow">
+	<summary>
+MainWindow
+</summary>
+</member><member name="M:VideoStore.NewMovies.InitializeComponent">
+	<summary>
+InitializeComponent
+</summary>
+</member><member name="T:VideoStore.NewMovies">
+	<summary>
+NewMovies
+</summary>
+</member><member name="M:VideoStore.listEmployee.InitializeComponent">
+	<summary>
+InitializeComponent
+</summary>
+</member><member name="T:VideoStore.listEmployee">
+	<summary>
+listEmployee
+</summary>
+</member><member name="M:VideoStore.listMovies.InitializeComponent">
+	<summary>
+InitializeComponent
+</summary>
+</member><member name="T:VideoStore.listMovies">
+	<summary>
+listMovies
+</summary>
+</member><member name="M:VideoStore.sellMovie.InitializeComponent">
+	<summary>
+InitializeComponent
+</summary>
+</member><member name="T:VideoStore.sellMovie">
+	<summary>
+sellMovie
+</summary>
+</member><member name="M:VideoStore.rentedMovies.InitializeComponent">
+	<summary>
+InitializeComponent
+</summary>
+</member><member name="T:VideoStore.rentedMovies">
+	<summary>
+rentedMovies
+</summary>
+</member><member name="M:VideoStore.returnMovie.InitializeComponent">
+	<summary>
+InitializeComponent
+</summary>
+</member><member name="T:VideoStore.returnMovie">
+	<summary>
+returnMovie
+</summary>
+</member><member name="M:VideoStore.salesGames.InitializeComponent">
+	<summary>
+InitializeComponent
+</summary>
+</member><member name="T:VideoStore.salesGames">
+	<summary>
+salesGames
+</summary>
+</member><member name="M:VideoStore.TopRatedGames.InitializeComponent">
+	<summary>
+InitializeComponent
+</summary>
+</member><member name="T:VideoStore.TopRatedGames">
+	<summary>
+TopRatedGames
+</summary>
+</member><member name="M:VideoStore.EmployeeLogin.InitializeComponent">
+	<summary>
+InitializeComponent
+</summary>
+</member><member name="T:VideoStore.EmployeeLogin">
+	<summary>
+EmployeeLogin
+</summary>
+</member><member name="M:VideoStore.addMovies.InitializeComponent">
+	<summary>
+InitializeComponent
+</summary>
+</member><member name="T:VideoStore.addMovies">
+	<summary>
+addMovies
+</summary>
+</member><member name="M:VideoStore.TopSoldMovies.InitializeComponent">
+	<summary>
+InitializeComponent
+</summary>
+</member><member name="T:VideoStore.TopSoldMovies">
+	<summary>
+TopSoldMovies
+</summary>
+</member><member name="M:VideoStore.gameSales.InitializeComponent">
+	<summary>
+InitializeComponent
+</summary>
+</member><member name="T:VideoStore.gameSales">
+	<summary>
+gameSales
+</summary>
+</member><member name="M:VideoStore.logOut.InitializeComponent">
+	<summary>
+InitializeComponent
+</summary>
+</member><member name="T:VideoStore.logOut">
+	<summary>
+logOut
+</summary>
+</member><member name="M:VideoStore.SearchMovie.InitializeComponent">
+	<summary>
+InitializeComponent
+</summary>
+</member><member name="T:VideoStore.SearchMovie">
+	<summary>
+SearchMovie
+</summary>
+</member><member name="M:VideoStore.addEmployee.InitializeComponent">
+	<summary>
+InitializeComponent
+</summary>
+</member><member name="T:VideoStore.addEmployee">
+	<summary>
+addEmployee
+</summary>
+</member><member name="M:VideoStore.manual.InitializeComponent">
+	<summary>
+InitializeComponent
+</summary>
+</member><member name="T:VideoStore.manual">
+	<summary>
+manual
+</summary>
+</member><member name="P:VideoStore.My.MyWpfExtension.Application">
+	<summary>
+ Returns the application object for the running application
+ </summary>
+</member><member name="P:VideoStore.My.MyWpfExtension.Computer">
+	<summary>
+ Returns information about the host computer.
+ </summary>
+</member><member name="P:VideoStore.My.MyWpfExtension.User">
+	<summary>
+ Returns information for the current user.  If you wish to run the application with the current 
+ Windows user credentials, call My.User.InitializeWithWindowsUser().
+ </summary>
+</member><member name="P:VideoStore.My.MyWpfExtension.Log">
+	<summary>
+ Returns the application log. The listeners can be configured by the application's configuration file.
+ </summary>
+</member><member name="P:VideoStore.My.MyWpfExtension.Windows">
+	<summary>
+ Returns the collection of Windows defined in the project.
+ </summary>
+</member><member name="T:VideoStore.My.MyWpfExtension">
+	<summary>
+ Module used to define the properties that are available in the My Namespace for WPF
+ </summary>
+	<remarks></remarks>
+</member><member name="P:VideoStore.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:VideoStore.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:VideoStore.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+</members>
+</doc>
